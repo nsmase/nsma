@@ -1,0 +1,1010 @@
+# Translation of Plugins - PublishPress Revisions: Duplicate Posts, Submit, Approve and Schedule Content Changes - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - PublishPress Revisions: Duplicate Posts, Submit, Approve and Schedule Content Changes - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-03 01:01:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - PublishPress Revisions: Duplicate Posts, Submit, Approve and Schedule Content Changes - Stable (latest release)\n"
+
+#. translators: %s: search keywords
+#: admin/class-list-table-archive.php:197 admin/revision-queue_rvy.php:129
+msgid "Search results for \"%s\""
+msgstr "Sökresultat för ”%s”"
+
+#: admin/options.php:1044
+msgctxt "opentag option_tabname closetag (explanatory note)"
+msgid "%1$s%2$s%3$s (%4$s)"
+msgstr "%1$s%2$s%3$s (%4$s)"
+
+#: admin/class-list-table_rvy.php:754
+msgid "Show more details"
+msgstr "Visa mer detaljer"
+
+#: rvy_init-functions.php:462
+msgid "Submit Changes"
+msgstr "Skicka ändringar"
+
+#: revision-workflow_rvy.php:176
+msgid "Edit %s: "
+msgstr "Redigera %s: "
+
+#: revision-workflow_rvy.php:161
+msgid "[%s] %s"
+msgstr "[%s] %s"
+
+#: admin/post-editor-workflow-ui_rvy.php:59
+msgid "Preview / Submit"
+msgstr "Förhandsgranska/skicka"
+
+#: admin/options.php:347
+msgid "License"
+msgstr "Licens"
+
+#: admin/options.php:105
+msgid "Notifications"
+msgstr "Aviseringar"
+
+#: admin/options.php:104
+msgid "Options"
+msgstr "Alternativ"
+
+#: admin/options.php:98
+msgid "Statuses"
+msgstr "Statusar"
+
+#: admin/history_rvy.php:1070
+msgid "Preview / Approve"
+msgstr "Förhandsgranska/godkänn"
+
+#: admin/history_rvy.php:922
+msgid "Modified "
+msgstr "Modifierad "
+
+#: admin/class-list-table_rvy.php:1011 front_rvy.php:436
+#: rvy_init-functions.php:274 rvy_init-functions.php:330
+msgid "Submit"
+msgstr "Skicka"
+
+#: admin/class-list-table_rvy.php:979
+msgid "My Activity"
+msgstr "Min aktivitet"
+
+#: admin/options.php:752
+msgid "Modification Date"
+msgstr "Ändringsdatum"
+
+#: admin/options.php:152
+msgid "Copy revision comments to published post"
+msgstr "Kopiera revisionskommentarer till publicerat inlägg"
+
+#: admin/admin-posts_rvy.php:159
+msgid "Has Revision"
+msgstr "Har revision"
+
+#: admin/edit-revision-block-ui_rvy.php:20
+msgid "Enable public preview"
+msgstr "Aktivera offentlig förhandsgranskning"
+
+#: admin/revision-queue_rvy.php:49
+msgid "%s revision unscheduled."
+msgid_plural "%s revisions unscheduled."
+msgstr[0] "%s revision oplanerad"
+msgstr[1] "%s revisioner oplanerade"
+
+#: admin/admin_rvy.php:306 admin/admin_rvy.php:307 includes/CoreAdmin.php:93
+msgid "Upgrade to Pro"
+msgstr "Uppgradera till Pro"
+
+#: admin/options.php:148
+msgid "Show Preview Links"
+msgstr "Visa förhandsgranskningslänkar"
+
+#: admin/edit-revision-classic-ui_rvy.php:108
+msgid "Revision updated."
+msgstr "Revision uppdaterad."
+
+#: admin/options.php:653
+msgid "For themes that block revision preview, hide preview links from non-Administrators"
+msgstr "För teman som blockerar förhandsgranskning av revision, göm förhandsgranskning från icke-administratörer"
+
+#: admin/options.php:733
+msgid "This may improve compatibility with some plugins."
+msgstr "Detta kan förbättra kompatibiliteten med vissa plugins."
+
+#. translators: %s: post title
+#: admin/class-list-table_rvy.php:725
+msgid "Compare Past Revisions"
+msgstr "Jämför tidigare versioner"
+
+#: admin/revision-queue_rvy.php:106
+msgctxt "Posts / Pages / etc."
+msgid "of %s"
+msgstr "av %s"
+
+#: admin/revision-queue_rvy.php:93
+msgctxt "Author Name"
+msgid "%s: "
+msgstr "%s: "
+
+#: admin/RevisionEditSubmitMetabox.php:188
+msgid "Publish on: %s"
+msgstr "Publicera på: %s"
+
+#: rvy_init-functions.php:675
+msgctxt "User role"
+msgid "Revisor"
+msgstr "Revisor"
+
+#: rvy_init-functions.php:345
+msgid "Scheduled Revision"
+msgstr "Schemalagd revision"
+
+#. translators: %s: post title
+#: admin/class-list-table_rvy.php:681
+msgid "View only revisions of %s"
+msgstr "Visa bara revisioner av %s"
+
+#: admin/revision-queue_rvy.php:121
+msgctxt "PublishedPostName (other filter captions)"
+msgid "Revision Queue for \"%s\"%s"
+msgstr "Revisionskö för \"%s\"%s"
+
+#: admin/RevisionEditSubmitMetabox.php:185
+msgid "Scheduled for: %s"
+msgstr "Schemalagd till den: %s"
+
+#: admin/edit-revision-classic-ui_rvy.php:106
+msgid "Revision updated. %sView Preview%s"
+msgstr "Revision uppdaterad. %sVisa förhandsgranskning%s"
+
+#: admin/class-list-table_rvy.php:1016
+msgid "Publish"
+msgstr "Publicera"
+
+#: admin/admin-init_rvy.php:189 admin/admin-init_rvy.php:303
+msgid "Sorry, you are not allowed to approve this revision."
+msgstr "Tyvärr, du har inte tillåtelse att godkänna den här revisionen."
+
+#: admin/options.php:974
+msgid "Show with message content"
+msgstr "Visa med meddelandets innehåll"
+
+#: admin/options.php:947
+msgid "Truncate Notification Log"
+msgstr "Avkorta aviseringslogg"
+
+#: rvy_init-functions.php:77
+msgid "Every 2 Minutes"
+msgstr "Varannan minut"
+
+#: admin/options.php:626
+msgid "This restriction applies to users who are not full editors for the post type. To enable a role, give it the list_others_revisions capability."
+msgstr "Denna begränsning gäller användare som inte är fullständiga redaktörer för inläggstypen. För att aktivera en roll, ge den behörighet list_others_revisions."
+
+#: admin/options.php:623
+msgid "This restriction applies to users who are not full editors for the post type. To enable a role, give it the edit_others_revisions capability."
+msgstr "Denna begränsning gäller användare som inte är fullständiga redaktörer för inläggstypen. För att aktivera en roll, ge den behörigheten edit_others_revisions."
+
+#: admin/options.php:962
+msgid "Seconds until next buffer processing time: %d"
+msgstr "Sekunder till nästa bufferbehandlingstid: %d"
+
+#: admin/options.php:955
+msgid "Sent in last day: %d / %d"
+msgstr "Senast inskickade dag: %d / %d"
+
+#: admin/options.php:954
+msgid "Sent in last hour: %d / %d"
+msgstr "Senast inskickade timme: %d / %d"
+
+#: admin/options.php:953
+msgid "Sent in last minute: %d / %d"
+msgstr "Senast inskickade minuter: %d / %d"
+
+#: admin/edit-revision-classic-ui_rvy.php:93
+msgid "Compare this revision to published copy, or to other revisions"
+msgstr "Jämför denna revision med publicerad kopia, eller med andra revisioner"
+
+#: admin/options.php:972
+msgid "Show Notification Log / Buffer"
+msgstr "Visa notifikations Log / Buffer"
+
+#: admin/options.php:941
+msgid "Purge Notification Buffer"
+msgstr "Töm Notifikation Buffer"
+
+#: admin/options.php:912
+msgid "Notification Log"
+msgstr "Notifikation Log"
+
+#: admin/options.php:884
+msgid "Notification Buffer"
+msgstr "Notifikationsbuffer"
+
+#: admin/options.php:863
+msgid "To avoid notification failures, buffer emails for delayed sending once minute, hour or day limits are exceeded"
+msgstr "För att undvika notifikationsfel kommer bufferemails bli försenade tills minut., timme. eller dagsbegränsingar överskrids"
+
+#: admin/options.php:701
+msgid "If disabled, Compare screen links to Revision Preview for approval"
+msgstr "Om inaktiverad, Länkar jämförskärmen till revisionsförhandsgranskning för godkännande"
+
+#: admin/options.php:676
+msgid "Some themes or plugins may require Revision Slug or Revision ID link type for proper template loading and field display."
+msgstr "Vissa teman eller plugin kan kräva länktyp Revision Slug eller Revision ID för korrekt mallläsning och fältvisning."
+
+#: admin/options.php:665
+msgid "Revision ID only"
+msgstr "Bara revision ID"
+
+#: admin/options.php:665
+msgid "Revision Slug"
+msgstr "Revision Slug"
+
+#: admin/options.php:665
+msgid "Published Post Slug"
+msgstr "Publicerat inlägg slug"
+
+#: admin/options.php:151
+msgid "Approve Button on Compare Revisions screen"
+msgstr "Godkännknapp på jämför revisionskärmen"
+
+#: admin/options.php:149
+msgid "Preview Link Type"
+msgstr "Förhandsgransknings länktyp"
+
+#: admin/options.php:144
+msgid "Enable notification buffer"
+msgstr "Aktviera notifikationsbuffer"
+
+#: rvy_init-functions.php:316 rvy_init-functions.php:333
+#: rvy_init-functions.php:350
+msgid "Approve Revision"
+msgstr "Godkänn revision"
+
+#: admin/revision-archive_rvy.php:28 admin/revision-queue_rvy.php:51
+msgid "%s revision permanently deleted."
+msgid_plural "%s revisions permanently deleted."
+msgstr[0] "%s revision permanent borttagen."
+msgstr[1] "%s revisioner permanent borttagna."
+
+#: admin/revision-queue_rvy.php:50
+msgid "%s revision published."
+msgid_plural "%s revisions published."
+msgstr[0] "%s revision publicerad."
+msgstr[1] "%s revisioner publicerade."
+
+#: admin/revision-queue_rvy.php:48
+msgid "%s revision approved."
+msgid_plural "%s revisions approved."
+msgstr[0] "%s revision godkänd."
+msgstr[1] "%s revisioner godkända."
+
+#: front_rvy.php:508 front_rvy.php:510
+msgid "This is the Current Revision. %s"
+msgstr "Det här är den aktuella revisionen. %s"
+
+#: front_rvy.php:520 front_rvy.php:522
+msgid "This is a Past Revision (from %s). %s %s"
+msgstr "Det här är en gammal revision (från %s). %s %s"
+
+#: admin/class-list-table_rvy.php:639 admin/history_rvy.php:784
+msgid "No author"
+msgstr "Ingen författare"
+
+#: front_rvy.php:517
+msgid "Restore"
+msgstr "Återställ"
+
+#: admin/class-list-table_rvy.php:1014 admin/history_rvy.php:1070
+#: front_rvy.php:433 front_rvy.php:458 rvy_init-functions.php:260
+#: rvy_init-functions.php:278 rvy_init-functions.php:317
+#: rvy_init-functions.php:334 rvy_init-functions.php:351
+msgid "Approve"
+msgstr "Godkänn"
+
+#: admin/revision-archive_rvy.php:57 admin/revision-queue_rvy.php:157
+msgid "Undo"
+msgstr "Ångra"
+
+#: admin/revision-queue_rvy.php:113 admin/revision-queue_rvy.php:114
+msgid "%sPost Author: %s"
+msgstr "%sInläggsförfattare: %s"
+
+#: admin/admin-init_rvy.php:109 admin/admin-init_rvy.php:337
+msgid "Error in deleting."
+msgstr "Fel vid borttagning."
+
+#: admin/admin_rvy.php:394
+msgid "Contact"
+msgstr "Kontakt"
+
+#: admin/admin_rvy.php:390
+msgid "About"
+msgstr "Om"
+
+#: admin/revision-ui_rvy.php:92
+msgid "%1$s (Current)"
+msgstr "%1$s (nuvarande)"
+
+#: admin/admin_lib-mu_rvy.php:10
+msgid "Network Settings"
+msgstr "Nätverksinställningar"
+
+#: admin/RevisionEditSubmitMetabox.php:147
+msgid "Status:"
+msgstr "Status:"
+
+#: admin/history_rvy.php:536
+msgid "Comment Status"
+msgstr "Kommentarstatus"
+
+#: admin/history_rvy.php:1174
+msgid "List"
+msgstr "Lista"
+
+#: admin/history_rvy.php:1173
+msgid "Manage"
+msgstr "Hantera"
+
+#: admin/history_rvy.php:675
+msgid "Featured Image"
+msgstr "Utvald bild"
+
+#: admin/history_rvy.php:672
+msgid "Page Template"
+msgstr "Sidmall"
+
+#: admin/history_rvy.php:533 admin/options.php:752
+msgid "Post Date"
+msgstr "Inläggsdatum"
+
+#: admin/history_rvy.php:927
+msgid "%s%s ago"
+msgstr "%s%s sedan"
+
+#: admin/history_rvy.php:984
+msgctxt "revision date short format"
+msgid "j M @ H:i"
+msgstr "j M @ H:i"
+
+#: admin/history_rvy.php:983
+msgid "M j, Y @ H:i"
+msgstr "M j, Y @ H:i"
+
+#: admin/history_rvy.php:927
+msgid "%s%s from now"
+msgstr "%s%s från nu"
+
+#: admin/post-editor-workflow-ui_rvy.php:72
+msgid "View unsaved changes"
+msgstr "Visa ändringar som inte har sparats"
+
+#: admin/admin_lib-mu_rvy.php:21
+msgid "Network Defaults"
+msgstr "Nätverksstandard"
+
+#: admin/class-list-table-archive.php:756 admin/class-list-table_rvy.php:1331
+#: admin/edit-revision-classic-ui_rvy.php:92 admin/post-edit_rvy.php:178
+#: admin/post-edit_rvy.php:192
+msgctxt "revisions"
+msgid "Compare"
+msgstr "Jämför"
+
+#: admin/class-list-table_rvy.php:987
+msgid "All %s"
+msgstr "Alla %s"
+
+#: admin/class-list-table_rvy.php:598
+msgid "Missed schedule"
+msgstr "Missat schema "
+
+#: admin/class-list-table_rvy.php:591
+msgid "Scheduled publication: %s"
+msgstr "Schemalagd publicering: %s"
+
+#: admin/class-list-table_rvy.php:582 admin/class-list-table_rvy.php:1202
+#: admin/history_rvy.php:985
+msgid "%s ago"
+msgstr "%s sedan"
+
+#: admin/class-list-table_rvy.php:520 admin/post-editor-workflow-ui_rvy.php:31
+msgid "Status"
+msgstr "Status"
+
+#: admin/admin_rvy.php:392
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: admin/class-list-table_rvy.php:584 admin/class-list-table_rvy.php:1205
+msgid "Y/m/d g:i a"
+msgstr "Y-m-d H:i:s"
+
+#: admin/class-list-table_rvy.php:574 admin/class-list-table_rvy.php:1197
+msgid "Y/m/d g:i:s a"
+msgstr "Y-m-d H:i"
+
+#: revision-creation_rvy.php:176
+msgid "Could not insert revision into the database"
+msgstr "Det gick inte att infoga revisionen i databasen"
+
+#. translators: Publish box date formt, see http://php.net/date
+#: admin/RevisionEditSubmitMetabox.php:180
+msgid "M j, Y @ G:i"
+msgstr "j M Y @ H:i"
+
+#: admin/class-list-table-archive.php:627
+#: admin/class-list-table-archive.php:784 admin/class-list-table_rvy.php:682
+msgid "Filter"
+msgstr "Filter"
+
+#: admin/class-list-table_rvy.php:594
+msgid "Requested publication: %s"
+msgstr "Begärt publicering: %s"
+
+#: admin/class-list-table_rvy.php:531
+msgid "Schedule"
+msgstr "Schemalägg"
+
+#: admin/class-list-table-archive.php:428 rvy_init-functions.php:454
+msgid "Revised By"
+msgstr "Reviderad av"
+
+#: admin/class-list-table-archive.php:427 admin/class-list-table_rvy.php:521
+msgid "Post Type"
+msgstr "Posttyp"
+
+#: admin/admin-posts_rvy.php:142 admin/class-list-table-archive.php:425
+#: rvy_init-functions.php:453
+msgid "Revision"
+msgstr "Revision"
+
+#: admin/class-list-table_rvy.php:1044
+msgid "Filter by category"
+msgstr "Filtrera på kategori"
+
+#: admin/class-list-table_rvy.php:694
+msgid "View"
+msgstr "Visa"
+
+#. translators: %s: post title
+#: admin/class-list-table_rvy.php:693 admin/class-list-table_rvy.php:701
+msgid "View published post"
+msgstr "Visa publicerade inlägg"
+
+#: admin/revisions.php:119
+msgid "Revisions of %s"
+msgstr "Revisioner av %s"
+
+#: admin/options.php:762
+msgid "Show descriptive captions for PublishPress Revisions settings"
+msgstr "Visa beskrivande bildtexter för inställningar för PublishPress Revisions"
+
+#: admin/admin-posts_rvy.php:174 admin/admin_rvy.php:274
+msgid "Revision Queue"
+msgstr "Revisionskö"
+
+#: admin/revision-ui_rvy.php:370
+msgid "Modified Date"
+msgstr "Senast ändrad"
+
+#: admin/RevisionEditSubmitMetabox.php:64
+msgid "Move to Trash"
+msgstr "Flytta till papperskorg"
+
+#: admin/post-edit_rvy.php:153
+msgid "View saved revision"
+msgstr "Visa sparad revision"
+
+#: admin/post-edit_rvy.php:150
+msgid "View / moderate saved revision"
+msgstr "Visa / moderera sparad revision"
+
+#: admin/post-editor-workflow-ui_rvy.php:54
+msgid "View / Approve"
+msgstr "Visa / Godkänn"
+
+#: admin/post-editor-workflow-ui_rvy.php:54
+msgid "View / Publish"
+msgstr "Visa / Publicera"
+
+#. translators: %s: post title
+#: admin/class-list-table_rvy.php:1330
+msgid "Compare Changes"
+msgstr "Jämför ändringar"
+
+#. translators: %s: post title
+#: admin/class-list-table-archive.php:771 admin/class-list-table_rvy.php:1315
+#: admin/post-editor-workflow-ui_rvy.php:192
+msgid "Preview Revision"
+msgstr "Förhandsgranska revision"
+
+#: admin/class-list-table-archive.php:385 admin/class-list-table_rvy.php:1023
+#: admin/class-list-table_rvy.php:1290 admin/post-edit-block-ui_rvy.php:94
+#: admin/post-edit_rvy.php:52 admin/RevisionEditSubmitMetabox.php:62
+msgid "Delete Revision"
+msgstr "Ta bort revision"
+
+#. translators: %s: post title
+#: admin/class-list-table_rvy.php:1185
+msgid "&#8220;%s&#8221; (Edit)"
+msgstr "&#8220;%s&#8221; (Redigera)"
+
+#: admin/class-list-table_rvy.php:1099
+msgid "Select All"
+msgstr "Välj alla"
+
+#: admin/class-list-table_rvy.php:726
+msgid "History"
+msgstr "Historia"
+
+#: admin/post-editor-workflow-ui_rvy.php:87
+msgid "Revision Submission Error"
+msgstr "Fel vid inlämning av revision"
+
+#: rvy_init-functions.php:356
+msgid "Scheduled"
+msgstr "Schemalagd"
+
+#: rvy_init-functions.php:263 rvy_init-functions.php:281
+#: rvy_init-functions.php:299 rvy_init-functions.php:319
+#: rvy_init-functions.php:336 rvy_init-functions.php:353
+msgid "Save Revision"
+msgstr "Spara revision"
+
+#: rvy_init-functions.php:318 rvy_init-functions.php:335
+#: rvy_init-functions.php:352
+msgid "Publish Revision"
+msgstr "Publicera revision"
+
+#. Description of the plugin
+#: revisionary.php
+msgid "Maintain published content with teamwork and precision using the Revisions model to submit, approve and schedule changes."
+msgstr "Underhåll publicerat innehåll med lagarbete och precision med hjälp av Revisionsmodellen för att skicka, godkänna och schemalägga ändringar."
+
+#. Plugin URI of the plugin
+#: revisionary.php
+msgid "https://publishpress.com/revisionary/"
+msgstr "https://publishpress.com/revisionary/"
+
+#. Plugin Name of the plugin
+#: revisionary.php
+msgid "PublishPress Revisions"
+msgstr "PublishPress Revisions"
+
+#: revision-workflow_rvy.php:174
+msgid "Revision Queue: "
+msgstr "Revisionskö: "
+
+#: admin/revision-queue_rvy.php:123
+msgid "Revision Queue %s"
+msgstr "Revisionskö %s"
+
+#: admin/admin-init_rvy.php:105 admin/admin-init_rvy.php:332
+msgid "Sorry, you are not allowed to delete this revision."
+msgstr "Tyvärr har du inte tillåtelse att radera den här versionen."
+
+#: admin/revision-queue_rvy.php:9
+msgid "You are not allowed to manage revisions."
+msgstr "Du får inte hantera ändringar."
+
+#: admin/revision-action_rvy.php:433 admin/revision-action_rvy.php:515
+msgid "Editor: "
+msgstr "Redaktör:"
+
+#: admin/admin_rvy.php:379
+msgid "If you like %s, please leave us a %s rating. Thank you!"
+msgstr "Om du gillar %s, Ge oss gärna ett %s betyg. Tack!"
+
+#: rvy_init-functions.php:456
+msgid "Post Author"
+msgstr "Inläggsförfattare"
+
+#: rvy_init-functions.php:457
+msgid "Published Post"
+msgstr "Publicerat inlägg"
+
+#: admin/options.php:474
+msgid "The user role \"Revisor\" role is now available. Include capabilities for all custom post types in this role?"
+msgstr "Användarrollen \"Revisor\" är nu tillgänglig. Inkludera funktioner för alla anpassade inläggstyper i den här rollen?"
+
+#: admin/admin_rvy.php:299 admin/options.php:238
+msgid "PublishPress Revisions Settings"
+msgstr "PublishPress Revisions inställningar"
+
+#: admin/admin_lib-mu_rvy.php:21 admin/options.php:234
+msgid "PublishPress Revisions Network Defaults"
+msgstr "PublishPress Revisions standardinställningar för nätverk"
+
+#: admin/options.php:236
+msgid "PublishPress Revisions Site Settings"
+msgstr "PublishPress Revisions webbplatsinställningar"
+
+#: admin/admin_lib-mu_rvy.php:10 admin/options.php:232
+msgid "PublishPress Revisions Network Settings"
+msgstr "PublishPress Revisions nätverksinställningar"
+
+#: admin/options.php:145
+msgid "All custom post types available to Revisors"
+msgstr "Alla anpassade inläggstyper tillgängliga för Revisorer"
+
+#: revisionary.php:120
+msgid "<strong>This plugin can be deleted.</strong>"
+msgstr "<strong>Det här pluginet kan tas bort.</strong>"
+
+#: admin/history_rvy.php:1166
+msgid "Preview / Restore"
+msgstr "Förhandsgranska / Återställ"
+
+#: admin/options.php:103
+msgid "Preview / Approval"
+msgstr "Förhandsgranska / Godkänn"
+
+#: admin/history_rvy.php:939
+msgctxt "revision date short format"
+msgid "j M @ g:i a"
+msgstr "j M kl. H:i"
+
+#: admin/history_rvy.php:917
+msgid "Requested for "
+msgstr "Begärt för"
+
+#: admin/history_rvy.php:680
+msgid "Beaver Builder Settings"
+msgstr "Beaver Builder inställningar"
+
+#: admin/history_rvy.php:679
+msgid "Beaver Builder Data"
+msgstr "Beaver Builder Data"
+
+#: admin/history_rvy.php:537
+msgid "Ping Status"
+msgstr "Ping Status"
+
+#: admin/history_rvy.php:535
+msgid "Menu Order"
+msgstr "Menyordning"
+
+#: admin/history_rvy.php:534
+msgid "Post Parent"
+msgstr "Förälder"
+
+#: admin/history_rvy.php:433 admin/history_rvy.php:436
+msgid "(no title)"
+msgstr "(ingen titel)"
+
+#: admin/post-editor-workflow-ui_rvy.php:193
+msgid "Edit Revision"
+msgstr "Redigera version"
+
+#: front_rvy.php:443 front_rvy.php:472 front_rvy.php:488
+msgid "Publish now"
+msgstr "Publicera nu"
+
+#: admin/post-editor-workflow-ui_rvy.php:208
+#: admin/post-editor-workflow-ui_rvy.php:228
+msgid "Update"
+msgstr "Uppdatera"
+
+#: admin/revision-ui_rvy.php:391
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+#. translators: post revision: 1: when, 2: author name
+#: admin/revision-ui_rvy.php:333
+msgctxt "post revision"
+msgid "%1$s by %2$s"
+msgstr "%1$s av %2$s"
+
+#: admin/options.php:135 admin/options.php:136
+msgid "Update Publish Date"
+msgstr "Uppdatera publiceringsdatum"
+
+#: admin/class-list-table-archive.php:772 admin/class-list-table_rvy.php:702
+#: admin/class-list-table_rvy.php:1316 admin/history_rvy.php:1072
+#: admin/history_rvy.php:1167 admin/post-editor-workflow-ui_rvy.php:52
+#: admin/post-editor-workflow-ui_rvy.php:96
+#: admin/post-editor-workflow-ui_rvy.php:192 admin/post-edit_rvy.php:99
+#: admin/revision-ui_rvy.php:261 admin/RevisionEditSubmitMetabox.php:123
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: admin/revision-action_rvy.php:426 admin/revision-action_rvy.php:508
+msgid "It will be published on %s"
+msgstr "Den kommer att publiceras %s"
+
+#: admin/options.php:586
+msgid "If a currently published post or page is edited and a future date set, the change will not be applied until the selected date."
+msgstr "Om ett för närvarande publicerat inlägg eller sida redigeras och ett framtida datum ställs in kommer ändringen inte att tillämpas förrän på det valda datumet."
+
+#: admin/options.php:479
+msgid "If checked, users lacking site-wide publishing capabilities will also be checked for the edit_others_drafts capability"
+msgstr "Om alternativet väljs kommer användare som saknar webbplatsövergripande publiceringsbehörigheter även att flaggas för behörighet att ändra andras utkast"
+
+#: admin/history_rvy.php:938
+msgid "M j, Y @ g:i a"
+msgstr "j M Y H:i"
+
+#: admin/revision-ui_rvy.php:261
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Förhandsgranska &#8221;%s&#8221;"
+
+#: revision-workflow_rvy.php:171
+msgid "Preview and Approval: "
+msgstr "Förhandsgranskning och godkännande:"
+
+#: rvy_init-functions.php:346 rvy_init-functions.php:347
+msgid "Schedule Revision"
+msgstr "Schemalägg revision"
+
+#: rvy_init-functions.php:329 rvy_init-functions.php:461
+msgid "Submit Revision"
+msgstr "Skicka revision"
+
+#: admin/history_rvy.php:912
+msgid "Scheduled for "
+msgstr "Schemalägg för"
+
+#: admin/revision-ui_rvy.php:277
+msgid "The revision will be deleted. Are you sure?"
+msgstr "Revisionen kommer att tas bort. Är du säker?"
+
+#: admin/revisions.php:56
+msgid "Past"
+msgstr "Då"
+
+#: admin/revisions.php:50
+msgid "No revision specified."
+msgstr "Ingen revision specifierad."
+
+#: admin/revision-action_rvy.php:422
+msgid "The submitter was %1$s."
+msgstr "Inlämnaren var %1$s"
+
+#: admin/revision-action_rvy.php:417 admin/revision-action_rvy.php:503
+msgid "[%s] Revision Approval Notice"
+msgstr "[%s] Meddelande om godkännande av revision"
+
+#: admin/options.php:310
+msgid "Here you can change the default value for settings which are controlled separately on each site."
+msgstr "Här kan du ändra standardvärdet för inställningar som styrs separat på varje webbplats."
+
+#: admin/options.php:307
+msgid "You can also specify %1$sdefaults for site-specific settings%2$s."
+msgstr "Du kan också specificera %1$sstandardinställningar för platsspecifika inställningar%2$s."
+
+#: admin/options.php:147
+msgid "Display Hints"
+msgstr "Visa tips"
+
+#: admin/options.php:320 admin/options.php:322
+msgid "Note that %1$s network-wide settings%2$s may also be available."
+msgstr "Notera att %1$s nätverksövergripande inställningar%2$s också kan komma att bli tillgängliga."
+
+#: admin/options.php:134
+msgid "Asynchronous Publishing"
+msgstr "Asynkron publicering"
+
+#: admin/options.php:92
+msgid "Setting Scope"
+msgstr "Inställningsområde"
+
+#: admin/admin-posts_rvy.php:55
+msgid "The revision was restored."
+msgstr "Revisionen återställdes."
+
+#: admin/revisions.php:149
+msgid "The requested revision does not exist."
+msgstr "Den begärda revisionen finns inte."
+
+#: admin/revisions.php:20
+msgid "<strong>Note:</strong> For visual display of revisions, add the following code to foliopress-wysiwyg.php:<br />&nbsp;&nbsp;if ( strpos( $_SERVER['REQUEST_URI'], 'admin.php?page=rvy-revisions' ) ) return;"
+msgstr "<strong>Notera:</strong> Lägg till följande kod för visuell visning av versioner foliopress-wysiwyg.php:<br />&nbsp;&nbsp;if ( strpos( $_SERVER['REQUEST_URI'], 'admin.php?page=rvy-revisions' ) ) return;"
+
+#: admin/revision-action_rvy.php:1365
+msgid "A scheduled revision to your %1$s \"%2$s\" has been published."
+msgstr "En schemalagd revision till din %1$s \"%2$s\" har blivit publicerad."
+
+#: admin/revision-action_rvy.php:504
+msgid "The revision you submitted for the %1$s \"%2$s\" has been approved."
+msgstr "Den revision du skickade in till %1$s \"%2$s\" har blivit godkänd."
+
+#: admin/revision-action_rvy.php:1343
+msgid "The scheduled revision you submitted for the %1$s \"%2$s\" has been published."
+msgstr "Den schemalagda versionen du skickade in till %1$s \"%2$s\" har blivit publicerad."
+
+#: admin/revision-action_rvy.php:1427
+msgid "A scheduled revision to the %1$s \"%2$s\" has been published."
+msgstr "En schemalagd revision till %1$s \"%2$s\" har blivit publicerad."
+
+#: admin/revision-action_rvy.php:435 admin/revision-action_rvy.php:517
+#: admin/revision-action_rvy.php:1346 admin/revision-action_rvy.php:1371
+#: admin/revision-action_rvy.php:1433
+msgid "View it online: "
+msgstr "Visa den online:"
+
+#: admin/revision-action_rvy.php:418
+msgid "A revision to the %1$s \"%2$s\" has been approved."
+msgstr "En revision till %1$s \"%2$s\" har blivit godkänd."
+
+#: admin/options.php:1110
+msgid "All settings in this form (including those on unselected tabs) will be reset to DEFAULTS.  Are you sure?"
+msgstr "Alla inställningar i det här formuläret (inklusive de på ej markerade flikar) kommer att återställas till STANDARD. Är du säker?"
+
+#: admin/options.php:1034
+msgid "Specify which PublishPress Revisions Settings to control network-wide. Unselected settings are controlled separately on each site."
+msgstr "Ange vilka publiceringsinställningar för PublishPress som ska kontrolleras över hela nätverket. Ovalda inställningar kontrolleras separat på varje webbplats."
+
+#: admin/options.php:1080
+msgid "network-wide control of \"%s\""
+msgstr "nätverksövergripande kontroll av \"%s\""
+
+#: admin/admin_rvy.php:299 admin/options.php:92
+msgid "Settings"
+msgstr "Inställningar"
+
+#: admin/agents_checklist_rvy.php:102
+msgid "select"
+msgstr "markera"
+
+#: admin/agents_checklist_rvy.php:110
+msgid "unselect"
+msgstr "avmarkera"
+
+#: admin/agents_checklist_rvy.php:86
+msgid "filter:"
+msgstr "filter:"
+
+#: admin/agents_checklist_rvy.php:77
+msgid "show eligible users (%d)"
+msgstr "visa kvalificerade användare (%d)"
+
+#: admin/agents_checklist_rvy.php:75
+msgid "show current users (%d)"
+msgstr "visa nuvarande användare (%d)"
+
+#: admin/class-list-table-archive.php:797 admin/class-list-table_rvy.php:1297
+#: admin/revision-ui_rvy.php:392
+msgid "Delete"
+msgstr "Ta bort"
+
+#: admin/admin_rvy.php:238 admin/admin_rvy.php:262
+msgid "Revisions"
+msgstr "Revisioner"
+
+#: admin/post-edit_rvy.php:27 admin/post-edit_rvy.php:85
+msgid "Current Time"
+msgstr "Aktuell tid"
+
+#: admin/admin-posts_rvy.php:189 admin/class-list-table_rvy.php:669
+#: admin/class-list-table_rvy.php:1266
+#: admin/post-editor-workflow-ui_rvy.php:101
+#: admin/post-editor-workflow-ui_rvy.php:193
+#: admin/RevisionEditSubmitMetabox.php:196 front_rvy.php:391
+msgid "Edit"
+msgstr "Redigera"
+
+#: admin/options.php:793 admin/options.php:814
+msgid "Always"
+msgstr "Alltid"
+
+#: admin/options.php:793 admin/options.php:814
+msgid "By default"
+msgstr "Som standard"
+
+#: admin/options.php:793 admin/options.php:814
+msgid "Never"
+msgstr "Aldrig"
+
+#: admin/options.php:803 admin/options.php:849
+msgid "select recipients"
+msgstr "välj mottagare"
+
+#: admin/options.php:601
+msgid "Publish scheduled revisions asynchronously, via a secondary http request from the server.  This is usually best since it eliminates delay, but some servers may not support it."
+msgstr "Publicera schemalagda versioner asynkront via en sekundär http-begäran från servern. Detta är oftast bäst eftersom det eliminerar fördröjning, men vissa servrar stöder det kanske inte."
+
+#: rvy_init-functions.php:355
+msgid "Scheduled Revisions"
+msgstr "Schemalagda revisioner"
+
+#: admin/revision-action_rvy.php:430 admin/revision-action_rvy.php:512
+msgid "Preview it here: "
+msgstr "Förhandsgranska det här:"
+
+#: admin/revision-action_rvy.php:1368 admin/revision-action_rvy.php:1430
+msgid "It was submitted by %1$s."
+msgstr "Den blev inlämnad av %1$s."
+
+#: lib/debug.php:110
+msgid "%1$s queries in %2$s seconds. %3$s MB used."
+msgstr "%1$s frågor i %2$s sekunder. %3$s MB använt."
+
+#: rvy_init-functions.php:1139
+msgid "Revision Workflow"
+msgstr "Revisionsarbetsflöde"
+
+#: rvy_init-functions.php:663
+msgid "Revisor"
+msgstr "Revisor"
+
+#. Author URI of the plugin
+#: revisionary.php
+msgid "https://publishpress.com"
+msgstr "https://publishpress.com"
+
+#. Author of the plugin
+#: revisionary.php
+msgid "PublishPress"
+msgstr "PublishPress"
+
+#: admin/revision-ui_rvy.php:374
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: admin/class-list-table_rvy.php:1019 admin/revision-ui_rvy.php:271
+msgid "Unschedule"
+msgstr "Ta bort schemaläggning"
+
+#: admin/revision-ui_rvy.php:108
+msgid "%1$s <span class=\"rvy-revision-pubish-date\">(Publish date: %2$s)</span>"
+msgstr "%1$s <span class=\"rvy-revision-pubish-date\">(Publiceringsdatum: %2$s)</span>"
+
+#: admin/revision-ui_rvy.php:106
+msgid "%1$s <span class=\"rvy-revision-pubish-date\">(Requested publication: %2$s)</span>"
+msgstr "%1$s <span class=\"rvy-revision-pubish-date\">(Begärd publicering: %2$s)</span>"
+
+#: admin/revision-ui_rvy.php:102
+msgctxt "revision schedule date format"
+msgid "j F, Y, g:i a"
+msgstr "j M, Y, H:i"
+
+#: admin/revision-ui_rvy.php:96
+msgid "%1$s (Autosave)"
+msgstr "%1$s (Autospara)"
+
+#. translators: revision date format, see http://php.net/date
+#: admin/revision-ui_rvy.php:73
+msgctxt "revision date format"
+msgid "j F, Y @ g:i a"
+msgstr "j M, Y kl: H:i"
+
+#: admin/revision-ui_rvy.php:42
+msgid "No email notifications will be sent."
+msgstr "Inga e-postaviseringar kommer att skickas."
+
+#: admin/revision-ui_rvy.php:40
+msgid "Publishers will be notified (but cannot be selected here)."
+msgstr "Utgivare kommer att meddelas (men kan inte väljas här)."
+
+#: admin/revisions.php:256
+msgid "no %s revisions available."
+msgstr "Inga %s revisioner tillgängliga."
+
+#: admin/revisions.php:219
+msgid "Past Revisions"
+msgstr "Tidigare revisioner"
+
+#: admin/post-editor-workflow-ui_rvy.php:135 rvy_init-functions.php:264
+#: rvy_init-functions.php:282 rvy_init-functions.php:300
+#: rvy_init-functions.php:320 rvy_init-functions.php:337
+#: rvy_init-functions.php:354 rvy_init-functions.php:458
+msgid "Update Revision"
+msgstr "Uppdatera revision"
+
+#: admin/admin-posts_rvy.php:65
+msgid "The revision was published."
+msgstr "Revisionen publicerades."
+
+#: admin/admin-posts_rvy.php:60
+msgid "The revision was scheduled for publication."
+msgstr "Revisionen schemalagd att publiceras."
+
+#: admin/options.php:146
+msgid "Prevent Revisors from editing other user's drafts"
+msgstr "Förhindra revisorer från att redigera andra användares utkast"

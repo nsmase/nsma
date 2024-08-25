@@ -1,0 +1,6590 @@
+# Translation of Plugins - ExactMetrics &#8211; Google Analytics Dashboard for WordPress (Website Stats Plugin) - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - ExactMetrics &#8211; Google Analytics Dashboard for WordPress (Website Stats Plugin) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-28 09:50:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - ExactMetrics &#8211; Google Analytics Dashboard for WordPress (Website Stats Plugin) - Stable (latest release)\n"
+
+#: languages/vue.php:5849
+msgid "You"
+msgstr "Du"
+
+#: languages/vue.php:5813
+msgid "WPForms is already installed"
+msgstr "WPForms är redan installerat"
+
+#: languages/vue.php:4662
+msgid "Thanks for your feedback!"
+msgstr "Tack för din feedback!"
+
+#: languages/vue.php:4592
+msgid "Submit"
+msgstr "Skicka"
+
+#: languages/vue.php:4492
+msgid "Source"
+msgstr "Källa"
+
+#: languages/vue.php:4224
+msgid "Send Message"
+msgstr "Skicka meddelande"
+
+#: languages/vue.php:4221
+msgid "Send Feedback"
+msgstr "Skicka feedback"
+
+#: languages/vue.php:3968
+msgid "Retry"
+msgstr "Försök igen"
+
+#: languages/vue.php:3926
+msgid "Rename"
+msgstr "Byt namn"
+
+#: languages/vue.php:3871
+msgid "Recent"
+msgstr "Senaste"
+
+#: languages/vue.php:3751
+msgid "Provide Feedback"
+msgstr "Tillhandahåll feedback"
+
+#: languages/vue.php:3100
+msgid "New Conversation"
+msgstr "Ny konversation"
+
+#: languages/vue.php:1455
+msgid "Delete"
+msgstr "Ta bort"
+
+#: languages/vue.php:1238
+msgid "Copied to clipboard!"
+msgstr "Kopierat till urklipp!"
+
+#: languages/vue.php:1196
+msgid "Conversations"
+msgstr "Konversationer"
+
+#: languages/vue.php:5899
+msgid "You Might Also Like"
+msgstr "Du kanske också gillar"
+
+#: languages/vue.php:5628
+msgid "Visits"
+msgstr "Besök"
+
+#: languages/vue.php:4645
+msgid "Terms"
+msgstr "Termer"
+
+#: languages/vue.php:4541
+msgid "State/Region"
+msgstr "Delstat/region"
+
+#: languages/vue.php:4472
+msgid "Social Media"
+msgstr "Sociala medier"
+
+#: languages/vue.php:2880
+msgid "Links"
+msgstr "Länkar"
+
+#: languages/vue.php:2877
+msgid "Link Label"
+msgstr "Länketikett"
+
+#: languages/vue.php:2871
+msgid "Link"
+msgstr "Länk"
+
+#: languages/vue.php:3107
+msgid "New Releases"
+msgstr "Nya releaser"
+
+#: languages/vue.php:2714
+msgid "Landing Page"
+msgstr "Målsida"
+
+#: languages/vue.php:2644
+msgid "Interests"
+msgstr "Intressen"
+
+#: languages/vue.php:2425
+msgid "Impressions"
+msgstr "Visningar"
+
+#: languages/vue.php:2372
+msgid "How to Improve"
+msgstr "Hur man förbättrar"
+
+#: languages/vue.php:2249
+msgid "Goal:"
+msgstr "Mål:"
+
+#: languages/vue.php:1418
+msgid "Date 2"
+msgstr "Datum 2"
+
+#: languages/vue.php:1415
+msgid "Date 1"
+msgstr "Datum 1"
+
+#: languages/vue.php:1323
+msgid "CTR"
+msgstr "CTR"
+
+#: languages/vue.php:1267
+msgid "Country"
+msgstr "Land"
+
+#: languages/vue.php:1263
+msgid "Count"
+msgstr "Antal"
+
+#: languages/vue.php:1130
+msgid "Connect"
+msgstr "Anslut"
+
+#: languages/vue.php:1028
+msgid "City"
+msgstr "Ort"
+
+#: languages/vue.php:834
+msgid "Campaign Details"
+msgstr "Kampanjdetaljer"
+
+#: languages/vue.php:824
+msgid "Campaign"
+msgstr "Kampanj"
+
+#: languages/vue.php:547
+msgid "And more!"
+msgstr "Och mer!"
+
+#: languages/vue.php:536
+msgid "An unknown error has occurred."
+msgstr "Ett okänt fel har uppstått."
+
+#: languages/vue.php:405
+msgid "Addon Deactivated"
+msgstr "Utökning inaktiverad"
+
+#: languages/vue.php:308
+msgid "Activate Now"
+msgstr "Aktivera nu"
+
+#: languages/vue.php:1719
+msgid "Email Notifications"
+msgstr "E-postaviseringar"
+
+#: languages/gutenberg.php:167 assets/gutenberg/js/editor.js:2572
+msgid "Reload"
+msgstr "Ladda om"
+
+#: languages/gutenberg.php:161 assets/gutenberg/js/editor.js:2558
+msgid "An error occurred!"
+msgstr "Ett fel uppstod!"
+
+#: languages/gutenberg.php:155 assets/gutenberg/js/editor.js:2542
+msgid "Recommended by ExactMetrics."
+msgstr "Rekommenderad av ExactMetrics."
+
+#: languages/vue.php:5580
+msgid "View settings"
+msgstr "Visa inställningar"
+
+#: languages/vue.php:4651
+msgid "text"
+msgstr "text"
+
+#: languages/vue.php:3874
+msgid "Recheck"
+msgstr "Kontrollera igen"
+
+#: languages/vue.php:3129
+msgid "No"
+msgstr "Nej"
+
+#: languages/vue.php:963
+msgid "Checking..."
+msgstr "Kontrollerar …"
+
+#: languages/vue.php:954
+msgid "Check"
+msgstr "Kontrollera"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-age.php:61
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-gender.php:61
+#: languages/vue.php:3559
+msgid "Percent"
+msgstr "Procent"
+
+#: includes/gutenberg/site-insights/templates/graph/class-graph-top10countries.php:36
+msgid "Top 10 countries"
+msgstr "10 populäraste länderna"
+
+#: includes/gutenberg/site-insights/templates/graph/class-graph-pageviews.php:36
+msgid "Page views"
+msgstr "Sidvisningar"
+
+#: includes/gutenberg/site-insights/templates/graph/class-graph-newvsreturning.php:36
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-newvsreturning.php:33
+msgid "New vs Returning"
+msgstr "Nya jämfört med återkommande"
+
+#: includes/admin/eea-compliance.php:215
+msgid "Check Now"
+msgstr "Kontrollera nu"
+
+#: includes/admin/admin.php:135
+msgid "Payments"
+msgstr "Betalningar"
+
+#: includes/admin/admin.php:134
+msgid "Payments:"
+msgstr "Betalningar:"
+
+#: languages/vue.php:5613
+msgid "Visit Website"
+msgstr "Besök webbplats"
+
+#: languages/vue.php:1837
+msgid "Enjoying ExactMetrics?"
+msgstr "Gillar du ExactMetrics?"
+
+#: languages/vue.php:3115
+msgid "New Users"
+msgstr "Nya användare"
+
+#: languages/vue.php:4447
+msgid "Skip for Now"
+msgstr "Hoppa över just nu"
+
+#: languages/vue.php:1487
+msgid "Details about social traffic to your website."
+msgstr "Detaljer om social trafik till din webbplats."
+
+#: languages/vue.php:4469
+msgid "Social"
+msgstr "Socialt"
+
+#: lite/includes/emails/templates/body-summaries.php:366
+msgid "Want to Grow?"
+msgstr "Vill du växa?"
+
+#: lite/includes/emails/templates/body-summaries.php:361
+msgid "More Traffic"
+msgstr "Mer trafik"
+
+#: lite/includes/emails/templates/body-summaries.php:339
+msgid "View All Report"
+msgstr "Visa alla rapporter"
+
+#: lite/includes/emails/templates/body-summaries-test.php:296
+msgid "Referrals"
+msgstr "Hänvisningar"
+
+#: lite/includes/emails/templates/body-summaries-test.php:270
+#: lite/includes/emails/templates/body-summaries-test.php:336
+msgid "View More"
+msgstr "Visa mer"
+
+#: lite/includes/emails/templates/body-summaries-test.php:247
+#: lite/includes/emails/templates/body-summaries-test.php:314
+msgid "Page Title"
+msgstr "Sidrubrik"
+
+#: lite/includes/emails/templates/body-summaries-test.php:202
+#: lite/includes/emails/templates/body-summaries-test.php:204
+msgid "vs previous 30 days"
+msgstr "jämfört med föregående 30 dagar"
+
+#: lite/includes/emails/templates/body-summaries-test.php:156
+msgid "Visitors"
+msgstr "Besökare"
+
+#: lite/includes/emails/templates/body-summaries-test.php:130
+msgid "Website: "
+msgstr "Webbplats: "
+
+#: languages/vue.php:5073
+#: lite/includes/emails/templates/body-summaries-plain.php:64
+#: lite/includes/emails/templates/body-summaries-test-plain.php:72
+#: lite/includes/emails/templates/body-summaries-test.php:236
+#: lite/includes/emails/templates/body-summaries.php:310
+msgid "Top Pages"
+msgstr "Populäraste sidorna"
+
+#: lite/includes/emails/templates/body-summaries-plain.php:44
+#: lite/includes/emails/templates/body-summaries-test-plain.php:53
+#: lite/includes/emails/templates/body-summaries-test.php:139
+#: lite/includes/emails/templates/body-summaries.php:111
+msgid "Hi there!"
+msgstr "Hej där!"
+
+#: lite/includes/admin/woocommerce-marketing.php:65
+msgid "Track WooCommerce Sales"
+msgstr "Spåra WooCommerce-försäljningar"
+
+#: lite/includes/admin/reports/report-summaries.php:34
+msgid "Summaries"
+msgstr "Sammanfattningar"
+
+#: languages/vue.php:1761
+msgid "Enable Email Summaries"
+msgstr "Aktivera e-postsammanfattningar"
+
+#: languages/vue.php:902
+msgid "Can't send email. %1$s"
+msgstr "Kan inte skicka e-post. %1$s"
+
+#: languages/vue.php:4232
+msgid "Send Test Email"
+msgstr "Skicka testmeddelande"
+
+#: languages/vue.php:1723
+msgid "Email Sent!"
+msgstr "E-post skickad!"
+
+#: languages/vue.php:899
+msgid "Can't send email"
+msgstr "Kan inte skicka e-post"
+
+#: languages/vue.php:4236
+msgid "Sending Email..."
+msgstr "Skickar e-post …"
+
+#: languages/vue.php:1153
+msgid "Connect Now"
+msgstr "Anslut nu"
+
+#: languages/vue.php:4311
+msgid "Set Up"
+msgstr "Ställ in"
+
+#: languages/vue.php:1770
+msgid "Enable Now"
+msgstr "Aktivera nu"
+
+#: languages/vue.php:2696
+msgid "Know More"
+msgstr "Lär dig mer"
+
+#: languages/vue.php:966
+msgid "Checkout our YouTube Channel"
+msgstr "Kolla in vår YouTube-kanal"
+
+#: languages/vue.php:5592
+msgid "View Tools"
+msgstr "Visa verktyg"
+
+#: languages/vue.php:2517
+msgid "Install AIOSEO for more organic traffic"
+msgstr "Installera AIOSEO för mer organisk trafik"
+
+#: languages/vue.php:4314
+msgid "Set up Custom Dimensions"
+msgstr "Ställ in anpassade dimensioner"
+
+#: languages/vue.php:4564
+msgid "Step 4 - Improve Your Analytics"
+msgstr "Steg 4 – förbättra din analys"
+
+#: languages/vue.php:4126
+msgid "See How"
+msgstr "Se hur"
+
+#: languages/vue.php:2572
+msgid "Install UserFeedback for more insights"
+msgstr "Installera UserFeedback för mer insikter"
+
+#: languages/vue.php:2526
+msgid "Install ExactMetrics"
+msgstr "Installera ExactMetrics"
+
+#: languages/vue.php:1387
+msgid "Customize ExactMetrics"
+msgstr "Anpassa ExactMetrics"
+
+#: languages/vue.php:4485
+msgid "Something went wrong"
+msgstr "Något gick fel"
+
+#: languages/vue.php:4672
+msgid "The addon activated successfully."
+msgstr "Utökningen aktiverades."
+
+#: languages/vue.php:1119
+msgid "Congrats!"
+msgstr "Grattis!"
+
+#: languages/vue.php:1424
+msgid "Date Picker"
+msgstr "Datumväljare"
+
+#: languages/vue.php:788
+msgid "Breakdowns by Devices"
+msgstr "Uppdelningar efter enheter"
+
+#: languages/vue.php:5679
+msgid "We're Waiting for Your Stats!"
+msgstr "Vi väntar på din statistik!"
+
+#: languages/vue.php:4558
+msgid "Step 2 - Customize ExactMetrics"
+msgstr "Steg 2 – anpassa ExactMetrics"
+
+#: languages/vue.php:4555
+msgid "Step 1 - Set Up ExactMetrics"
+msgstr "Steg 1 – ställ in ExactMetrics"
+
+#: languages/vue.php:4675
+msgid "The addon could not be installed."
+msgstr "Utökningen kunde inte installeras."
+
+#: languages/vue.php:2013
+msgid "Export to PDF"
+msgstr "Exportera till PDF"
+
+#: languages/vue.php:3112
+msgid "New Sessions"
+msgstr "Nya sessioner"
+
+#: languages/vue.php:5187
+msgid "Transactions"
+msgstr "Transaktioner"
+
+#: languages/vue.php:3798
+msgid "Purchases"
+msgstr "Köp"
+
+#: languages/vue.php:1279
+msgid "Coupons"
+msgstr "Rabattkoder"
+
+#: languages/vue.php:868
+msgid "Campaigns"
+msgstr "Kampanjer"
+
+#: languages/vue.php:4631
+msgid "Technology"
+msgstr "Teknologi"
+
+#: languages/vue.php:5171
+msgid "Traffic Overview"
+msgstr "Trafiköversikt"
+
+#: languages/vue.php:4510
+msgid "Source Name"
+msgstr "Källnamn"
+
+#: languages/vue.php:1498
+msgid "Device Types"
+msgstr "Enhetstyper"
+
+#: languages/vue.php:3479
+msgid "Page Name"
+msgstr "Sidnamn"
+
+#: languages/vue.php:5178
+msgid "Traffic Report"
+msgstr "Trafikrapport"
+
+#: languages/vue.php:3860
+msgid "Realtime "
+msgstr "Realtid "
+
+#: languages/vue.php:1421
+msgid "Date Filtering"
+msgstr "Datumfiltrering"
+
+#: languages/vue.php:794
+msgid "Browser Names"
+msgstr "Webbläsarnamn"
+
+#: languages/vue.php:3506
+msgid "Pages / Sessions"
+msgstr "Sidor/sessioner"
+
+#: languages/vue.php:854
+msgid "Campaign Names"
+msgstr "Kampanjnamn"
+
+#: languages/vue.php:872
+msgid "Campaigns Report"
+msgstr "Kampanjrapport"
+
+#: languages/vue.php:4719
+msgid "The most popular pages on your website."
+msgstr "De mest populära sidorna på din webbplats."
+
+#: languages/vue.php:3512
+msgid "Pages Report"
+msgstr "Sidrapport"
+
+#: languages/vue.php:4364
+msgid "Show Details"
+msgstr "Visa detaljer"
+
+#: languages/vue.php:2347
+msgid "Hide Details"
+msgstr "Dölj detaljer"
+
+#: languages/vue.php:4302
+msgid "Set Custom Date Range"
+msgstr "Ställ in anpassat datumintervall"
+
+#: languages/vue.php:1353
+msgid "Custom Date Range"
+msgstr "Anpassat datumintervall"
+
+#: languages/vue.php:65
+msgid "%1$sCustom dates:%2$s %3$s - %4$s"
+msgstr "%1$sAnpassade datum: %2$s %3$s – %4$s"
+
+#: languages/vue.php:3382
+msgid "Oops! We can't authenticate."
+msgstr "Hoppsan! Vi kan inte autentisera."
+
+#: languages/vue.php:3783
+msgid "Purchase Dates"
+msgstr "Köpdatum"
+
+#: includes/admin/site-notes/Database.php:56
+msgid "Blog Post"
+msgstr "Blogginlägg"
+
+#: includes/admin/site-notes/Controller.php:381
+msgid "Please choose a category to delete!"
+msgstr "Välj en kategori att ta bort!"
+
+#: includes/admin/site-notes/Controller.php:243
+msgid "Please add a category name"
+msgstr "Lägg till ett kategorinamn"
+
+#: includes/admin/notifications/notification-install-user-feedback.php:47
+msgid "Install & Activate"
+msgstr "Installera och aktivera"
+
+#: includes/admin/site-notes/Controller.php:442
+msgid "NA"
+msgstr "NA"
+
+#: languages/vue.php:4081
+msgid "Search.."
+msgstr "Sök …"
+
+#: languages/vue.php:2585
+msgid "Installing & Activating"
+msgstr "Installerar och aktiverar"
+
+#: includes/admin/site-notes/Controller.php:432 languages/vue.php:2415
+msgid "Important"
+msgstr "Viktigt"
+
+#: languages/vue.php:4385
+msgid "Show:"
+msgstr "Visa:"
+
+#: languages/vue.php:40
+msgid "%1$s"
+msgstr "%1$s"
+
+#: languages/vue.php:1894
+msgid "Error: %1$s"
+msgstr "Fel: %1$s"
+
+#: languages/vue.php:1463
+msgid "Deleted successfully."
+msgstr "Borttaget utan problem."
+
+#: languages/vue.php:3917
+msgid "Remove Media"
+msgstr "Ta bort media"
+
+#: languages/vue.php:1703
+msgid "Edit Note"
+msgstr "Redigera anteckning"
+
+#: languages/vue.php:4200
+msgid "Select Category"
+msgstr "Välj kategori"
+
+#: languages/vue.php:474
+msgid "All Categories"
+msgstr "Alla kategorier"
+
+#: languages/vue.php:1616
+msgid "Draft"
+msgstr "Utkast"
+
+#: languages/vue.php:1459
+msgid "Delete Permanently"
+msgstr "Ta bort permanent"
+
+#: languages/vue.php:3959
+msgid "Restore"
+msgstr "Återställ"
+
+#: languages/vue.php:1311
+msgid "Created"
+msgstr "Skapat"
+
+#: languages/vue.php:602
+msgid "Author"
+msgstr "Författare"
+
+#: languages/vue.php:4084
+msgid "Search..."
+msgstr "Sök …"
+
+#: languages/vue.php:969
+msgid "Choose"
+msgstr "Välj"
+
+#: languages/vue.php:5006
+msgid "Toggle"
+msgstr "Slå på/av"
+
+#: languages/vue.php:3914
+msgid "Remove"
+msgstr "Ta bort"
+
+#: languages/vue.php:364
+msgid "Add Answer"
+msgstr "Lägg till svar"
+
+#: languages/vue.php:4305
+msgid "Set Image"
+msgstr "Ställ in bild"
+
+#: languages/vue.php:4209
+msgid "Select or upload image"
+msgstr "Välj eller ladda upp bild"
+
+#: languages/vue.php:933
+msgid "Change Media"
+msgstr "Ändra media"
+
+#: languages/vue.php:4206
+msgid "Select Media"
+msgstr "Välj media"
+
+#: languages/vue.php:4018
+msgid "Save"
+msgstr "Spara"
+
+#: languages/vue.php:1699
+msgid "Edit"
+msgstr "Redigera"
+
+#: languages/vue.php:4185
+msgid "Select %s"
+msgstr "Välj %s"
+
+#: languages/vue.php:468
+msgid "All"
+msgstr "Alla"
+
+#: languages/vue.php:806
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+#: languages/vue.php:4195
+msgid "Select bulk action"
+msgstr "Välj massåtgärd"
+
+#: languages/vue.php:2760
+msgid "Last Page"
+msgstr "Sista sidan"
+
+#: languages/vue.php:3126
+msgid "Next Page"
+msgstr "Nästa sida"
+
+#: languages/vue.php:3715
+msgid "Previous Page"
+msgstr "Förgående sida"
+
+#: languages/vue.php:2081
+msgid "First Page"
+msgstr "Första sidan"
+
+#: languages/vue.php:1344
+msgid "Current Page"
+msgstr "Nuvarande sida"
+
+#: languages/vue.php:561
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: languages/vue.php:275
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: languages/vue.php:4192
+msgid "Select All"
+msgstr "Välj alla"
+
+#: languages/vue.php:3122
+msgid "Next"
+msgstr "Nästa"
+
+#: languages/vue.php:3711
+msgid "Previous"
+msgstr "Föregående"
+
+#: languages/gutenberg.php:390 assets/gutenberg/js/editor.js:4272
+msgid "Published: %s"
+msgstr "Publicerat: %s"
+
+#: includes/admin/site-notes/Controller.php:431
+#: includes/admin/site-notes/Controller.php:686 languages/gutenberg.php:387
+#: languages/vue.php:923 assets/gutenberg/js/editor.js:4270
+msgid "Category"
+msgstr "Kategori"
+
+#: languages/vue.php:368
+msgid "Add custom colors to categories"
+msgstr "Lägg till anpassade färger till kategorier"
+
+#: languages/vue.php:3681
+msgid "Possible Answers"
+msgstr "Möjliga svar"
+
+#: includes/admin/admin.php:167
+msgid "Upgrade to GA4"
+msgstr "Uppgradera till GA4"
+
+#: includes/admin/admin.php:159
+msgid "Cinco De Mayo!"
+msgstr "Cinco De Mayo!"
+
+#: includes/admin/admin.php:175
+msgid "Summer Sale"
+msgstr "Sommarrea"
+
+#: languages/vue.php:4549
+msgid "Status: Upgrade Required"
+msgstr "Status: Uppgradering krävs"
+
+#: includes/admin/ajax.php:338
+msgid "Invalid site key."
+msgstr "Ogiltig webbplatsnyckel."
+
+#: languages/vue.php:5245
+msgid "Unknown"
+msgstr "Okänd"
+
+#: languages/vue.php:1593
+msgid "Download as PDF"
+msgstr "Ladda ner som PDF"
+
+#: languages/vue.php:1597
+msgid "Download Failed"
+msgstr "Nedladdning misslyckades"
+
+#: languages/vue.php:255
+msgid "A Tip For %s"
+msgstr "Ett tips för %s"
+
+#: languages/vue.php:252
+msgid "A Tip for %s"
+msgstr "Ett tips för %s"
+
+#: languages/vue.php:2155
+msgid "Generating PDF Report"
+msgstr "Genererar PDF-rapport"
+
+#: languages/vue.php:1600
+msgid "Download Failed, no report found!"
+msgstr "Nedladdning misslyckades, ingen rapport hittades!"
+
+#. Author URI of the plugin
+#: gadwp.php
+msgid "https://exactmetrics.com/lite/?utm_source=liteplugin&utm_medium=pluginheader&utm_campaign=authoruri&utm_content=7%2E0%2E0"
+msgstr "https://exactmetrics.com/lite/?utm_source=liteplugin&utm_medium=pluginheader&utm_campaign=authoruri&utm_content=7%2E0%2E0"
+
+#: languages/vue.php:4002
+msgid "Right"
+msgstr "Höger"
+
+#: languages/vue.php:926
+msgid "Center"
+msgstr "Centrerat"
+
+#: languages/vue.php:2844
+msgid "Left"
+msgstr "Vänster"
+
+#: languages/vue.php:1398
+msgid "Dark"
+msgstr "Mörk"
+
+#: languages/vue.php:2865
+msgid "Light"
+msgstr "Ljus"
+
+#: languages/vue.php:1241
+msgid "Copy"
+msgstr "Kopiera"
+
+#: languages/vue.php:3678
+msgid "Position"
+msgstr "Position"
+
+#: languages/vue.php:557
+msgid "Appearance"
+msgstr "Utseende"
+
+#: languages/vue.php:3863
+msgid "Realtime Report"
+msgstr "Realtidsrapport"
+
+#: languages/vue.php:3259
+msgid "Number of Clicks"
+msgstr "Antal klick"
+
+#: languages/vue.php:2084
+msgid "Focus Keywords"
+msgstr "Fokusnyckelord"
+
+#: languages/vue.php:3754
+msgid "Publish Times"
+msgstr "Publiceringstid"
+
+#: languages/vue.php:4246
+msgid "SEO Scores"
+msgstr "SEO-poäng"
+
+#: languages/vue.php:3687
+msgid "Post Types"
+msgstr "Inläggstyper"
+
+#: languages/vue.php:3263
+msgid "Number of Transactions"
+msgstr "Antal transaktioner"
+
+#: languages/vue.php:1226
+msgid "Conversion Tools"
+msgstr "Konverteringsverktyg"
+
+#: languages/vue.php:5027
+msgid "Top Cities"
+msgstr "Populäraste orterna"
+
+#: languages/vue.php:5037
+msgid "Top Countries"
+msgstr "Populäraste länderna"
+
+#: languages/vue.php:1340
+msgid "Current Active Users"
+msgstr "Nuvarande aktiva användare"
+
+#: languages/vue.php:5070
+msgid "Top Page Views"
+msgstr "Populäraste sidvisningarna"
+
+#: languages/vue.php:3534
+msgid "Pageviews Per Minute"
+msgstr "Sidvisningar per minut"
+
+#: includes/frontend/verified-badge/Controller.php:91
+msgid "Verified by ExactMetrics"
+msgstr "Verifierad av ExactMetrics"
+
+#: languages/vue.php:622
+msgid "Automatic Display"
+msgstr "Automatisk visning"
+
+#: languages/vue.php:628
+msgid "Automatic Recommendations"
+msgstr "Automatiska rekommendationer"
+
+#: languages/vue.php:2071
+msgid "First Contentful Paint"
+msgstr "First Contentful Paint"
+
+#: languages/vue.php:3320
+msgid "Oops! Can't install addon. Error: %1$s, %2$s"
+msgstr "Hoppsan! Kan inte installera utökning. Fel: %1$s, %2$s"
+
+#: languages/vue.php:3323
+msgid "Oops! Can't install plugin. Error: %1$s, %2$s"
+msgstr "Hoppsan! Kan inte installera tillägg. Fel: %1$s, %2$s"
+
+#: languages/vue.php:3317
+msgid "Oops! Can't deactivate addon. Error: %1$s, %2$s"
+msgstr "Hoppsan! Kan inte inaktivera utökning. Fel: %1$s, %2$s"
+
+#: languages/vue.php:3314
+msgid "Oops! Can't activate addon. Error: %1$s, %2$s"
+msgstr "Hoppsan! Kan inte aktivera utökning. Fel: %1$s, %2$s"
+
+#: languages/vue.php:3326
+msgid "Oops! Can't install WPForms. Error: %1$s, %2$s"
+msgstr "Hoppsan! Kan inte installera WPForms. Fel: %1$s, %2$s"
+
+#: languages/vue.php:332
+msgid "Activating UserFeedback"
+msgstr "Aktiverar UserFeedback"
+
+#: languages/vue.php:2598
+msgid "Installing UserFeedback"
+msgstr "Installerar UserFeedback"
+
+#: languages/vue.php:2582
+msgid "Installed & Active"
+msgstr "Installerat och aktivt"
+
+#: languages/vue.php:4535
+msgid "Start Setup"
+msgstr "Börja ställa in"
+
+#: languages/vue.php:4323
+msgid "Set Up UserFeedback"
+msgstr "Ställ in UserFeedback"
+
+#: languages/vue.php:2566
+msgid "Install UserFeedback"
+msgstr "Installera UserFeedback"
+
+#: languages/vue.php:2569
+msgid "Install UserFeedback by clicking the button below."
+msgstr "Installera UserFeedback genom att klicka på knappen nedan."
+
+#: languages/vue.php:2514
+msgid "Install & Activate UserFeedback"
+msgstr "Installera och aktivera UserFeedback"
+
+#: languages/vue.php:5800
+msgid "WP Simple Pay"
+msgstr "WP Simple Pay"
+
+#: languages/vue.php:5536
+msgid "View All Reports"
+msgstr "Visa alla rapporter"
+
+#: lite/includes/admin/connect.php:67
+msgid "You already have ExactMetrics Pro installed."
+msgstr "Du har redan ExactMetrics Pro installerat."
+
+#: lite/includes/admin/connect.php:42
+msgid "Oops! You are not allowed to install plugins. Please contact your site administrator."
+msgstr "Hoppsan! Du har inte behörighet att installera tillägg. Kontakta din webbplatsadministratör."
+
+#: includes/admin/routes.php:970
+msgid "Please select a valid file to upload."
+msgstr "Välj en giltig fil att ladda upp."
+
+#: languages/vue.php:1987
+msgid "Expired"
+msgstr "Löpt ut"
+
+#: languages/vue.php:1040
+msgid "Click here."
+msgstr "Klicka här."
+
+#: languages/vue.php:3822
+msgid "Reactivate License"
+msgstr "Återaktivera licens"
+
+#: languages/vue.php:2857
+msgid "License Expired"
+msgstr "Licens löpt ut"
+
+#: lite/includes/admin/metaboxes.php:63 lite/includes/admin/metaboxes.php:103
+msgid "Time on Page"
+msgstr "Tid på sida"
+
+#: languages/vue.php:5276
+#: lite/includes/admin/user-journey/providers/class-abstract-lite-metabox.php:84
+msgid "Upgrade and Unlock"
+msgstr "Uppgradera och lås upp"
+
+#: includes/admin/wp-site-health.php:32
+msgid "Enable Google Analytics 4"
+msgstr "Aktivera Google Analytics 4"
+
+#: includes/admin/admin.php:88
+#: lite/includes/admin/user-journey/providers/class-abstract-lite-metabox.php:101
+msgid "User Journey"
+msgstr "User Journey"
+
+#: languages/gutenberg.php:357 assets/gutenberg/js/editor.js:3930
+msgid "Load Time"
+msgstr "Laddningstid"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1005
+msgid "first"
+msgstr "första"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:795
+msgid "profitable"
+msgstr "lönsam"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:784
+msgid "simplified"
+msgstr "förenklad"
+
+#: languages/vue.php:4689
+msgid "The following plugins will be installed: "
+msgstr "Följande tillägg kommer att installeras: "
+
+#: languages/vue.php:3418
+msgid "Other Addons"
+msgstr "Andra utökningar"
+
+#: languages/vue.php:5465
+msgid "Verify License Key"
+msgstr "Verifiera licensnyckel"
+
+#: languages/vue.php:5365
+msgid "Upgrade to Unlock These Features"
+msgstr "Uppgradera för att låsa upp dessa funktioner"
+
+#: languages/vue.php:5154
+msgid "Tracking Code Installed"
+msgstr "Spårningskod installerad"
+
+#: languages/vue.php:1162
+msgid "Connected to Google Analytics"
+msgstr "Ansluten till Google Analytics"
+
+#: languages/vue.php:5510
+msgid "View all ExactMetrics addons"
+msgstr "Visa alla ExactMetrics-utökningar"
+
+#: languages/vue.php:5742
+msgid "Which website features would you like to enable?"
+msgstr "Vilka webbplatsfunktioner vill du aktivera?"
+
+#: languages/vue.php:491
+msgid "All In One SEO Toolkit"
+msgstr "All In One SEO Toolkit"
+
+#. Translators: Mobile device notification title
+#: includes/admin/notifications/notification-mobile-device-high-traffic.php:33
+msgid "Traffic From Mobile Devices is %s%%"
+msgstr "Trafik från mobila enheter är %s%%"
+
+#. Translators: visitors notification title
+#: includes/admin/notifications/notification-visitors.php:36
+msgid "See how %s Visitors Found Your Site!"
+msgstr "Se hur %s besökare hittade din webbplats!"
+
+#: includes/admin/notifications/notification-upgrade-to-pro-high-traffic.php:35
+#: includes/admin/notifications/notification-upgrade-to-pro.php:27
+msgid "Upgrade to Unlock Advanced Tracking & Reports"
+msgstr "Uppgradera för att låsa upp avancerad spårning och rapporter"
+
+#: includes/admin/notifications/notification-upgrade-for-search-console.php:26
+msgid "See Top Performing Keywords"
+msgstr "Se de bäst presterande nyckelorden"
+
+#: includes/admin/exclude-page-metabox.php:139 languages/gutenberg.php:375
+#: lite/includes/admin/user-journey/providers/class-abstract-lite-metabox.php:114
+#: assets/gutenberg/js/editor.js:4190
+msgid "This is a PRO feature."
+msgstr "Detta är en PRO-funktion."
+
+#: includes/admin/notifications/notification-install-wp-forms.php:30
+msgid "Create a Contact Form in Only Minutes"
+msgstr "Skapa ett kontaktformulär på bara några minuter"
+
+#: includes/admin/notifications/notification-install-optinmonster.php:33
+msgid "Increase Engagement on Your Site"
+msgstr "Öka engagemanget på din webbplats"
+
+#: includes/admin/notifications/notification-install-aioseo.php:30
+msgid "Install All-In-One SEO"
+msgstr "Installera All-In-One SEO"
+
+#: includes/admin/site-notes/Controller.php:433 languages/vue.php:2965
+msgid "Media"
+msgstr "Media"
+
+#: languages/vue.php:1940
+msgid "ExactMetrics Pro"
+msgstr "ExactMetrics Pro"
+
+#: languages/gutenberg.php:164 languages/vue.php:2545
+#: assets/gutenberg/js/editor.js:2567
+msgid "Install Now"
+msgstr "Installera nu"
+
+#: languages/vue.php:2980
+msgid "MemberPress"
+msgstr "MemberPress"
+
+#: languages/vue.php:2283
+msgid "Guides & Resources"
+msgstr "Guider och resurser"
+
+#: languages/vue.php:3801
+msgid "PushEngage"
+msgstr "PushEngage"
+
+#: languages/vue.php:3835
+msgid "Read This Guide"
+msgstr "Läs denna guide"
+
+#: languages/vue.php:418
+msgid "Advanced Coupons"
+msgstr "Avancerade rabattkoder"
+
+#: languages/vue.php:1649
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: languages/vue.php:5181
+msgid "Traffic Tools"
+msgstr "Trafikverktyg"
+
+#: languages/vue.php:482
+msgid "All in One SEO (AIOSEO)"
+msgstr "All in One SEO (AIOSEO)"
+
+#: languages/vue.php:3989
+msgid "Revenue"
+msgstr "Intäkt"
+
+#: languages/vue.php:2028
+msgid "Featured"
+msgstr "Utvald"
+
+#: languages/vue.php:3702
+msgid "PrettyLinks"
+msgstr "PrettyLinks"
+
+#: languages/vue.php:4092
+msgid "SearchWP"
+msgstr "SearchWP"
+
+#: languages/vue.php:4179
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#: languages/vue.php:4218
+msgid "SEMRUSH"
+msgstr "SEMRUSH"
+
+#: languages/vue.php:3814
+msgid "RafflePress"
+msgstr "RafflePress"
+
+#: languages/vue.php:2031
+msgid "Featured Tools"
+msgstr "Utvalda verktyg"
+
+#: languages/vue.php:3675
+msgid "Popular Products by ExactMetrics"
+msgstr "Populära produkter av ExactMetrics"
+
+#: languages/vue.php:3658
+msgid "Popular Posts by ExactMetrics"
+msgstr "Populära inlägg av ExactMetrics"
+
+#: languages/vue.php:1175
+msgid "Constant Contact"
+msgstr "Constant Contact"
+
+#: languages/vue.php:4462
+msgid "Smash Balloon - Instagram"
+msgstr "Smash Balloon - Instagram"
+
+#: languages/vue.php:4459
+msgid "Smash Balloon - Facebook"
+msgstr "Smash Balloon - Facebook"
+
+#: languages/vue.php:3742
+msgid "Pro version is required."
+msgstr "Pro-version krävs."
+
+#: languages/vue.php:2034
+msgid "FEATURES"
+msgstr "FUNKTIONER"
+
+#: languages/vue.php:2601
+msgid "Installing. Please wait.."
+msgstr "Installerar, vänta …"
+
+#: languages/vue.php:1379
+msgid "Customer Profiles"
+msgstr "Kundprofiler"
+
+#: languages/vue.php:5748
+msgid "Who is my typical customer?"
+msgstr "Vem är min typiska kund?"
+
+#: languages/vue.php:2663
+msgid "Joel Steinmann"
+msgstr "Joel Steinmann"
+
+#: languages/vue.php:2653
+msgid "Jack Brown"
+msgstr "Jack Brown"
+
+#: languages/vue.php:2523
+msgid "Install All-in-One-SEO"
+msgstr "Installera All-in-One-SEO"
+
+#: languages/vue.php:18
+msgid "& Many More!"
+msgstr "och mycket mer!"
+
+#: languages/vue.php:2271
+msgid "Google News Sitemap"
+msgstr "Webbplatskarta för Google Nyheter"
+
+#: languages/vue.php:5776
+msgid "WooCommerce SEO"
+msgstr "WooCommerce SEO"
+
+#: languages/vue.php:5736
+msgid "Which ad campaign is driving the most revenue?"
+msgstr "Vilken annonskampanj ger mest intäkter?"
+
+#: includes/admin/admin.php:272
+msgid "SEO:"
+msgstr "SEO:"
+
+#: includes/admin/admin.php:96 includes/admin/admin.php:272
+msgid "SEO"
+msgstr "SEO"
+
+#: languages/vue.php:2520
+msgid "Install All-in-One SEO"
+msgstr "Installeta All-in-One SEO"
+
+#: languages/vue.php:342
+msgid "Activation Failed. Please refresh and try again."
+msgstr "Aktivering misslyckades. Uppdatera och försök igen."
+
+#: languages/vue.php:301
+msgid "Activate AIOSEO"
+msgstr "Aktivera AIOSEO"
+
+#: languages/vue.php:323
+msgid "Activating AIOSEO..."
+msgstr "Aktiverar AIOSEO …"
+
+#: languages/vue.php:2577
+msgid "Installation Failed. Please refresh and try again."
+msgstr "Installation misslyckades. Uppdatera och försök igen."
+
+#: languages/vue.php:2592
+msgid "Installing AIOSEO..."
+msgstr "Installerar AIOSEO …"
+
+#: languages/vue.php:5208
+msgid "Try it out today, for free."
+msgstr "Prova det idag gratis."
+
+#: languages/vue.php:2170
+msgid "Get AIOSEO for WordPress"
+msgstr "Skaffa AIOSEO för WordPress"
+
+#: languages/vue.php:4329
+msgid "Settings Menu"
+msgstr "Inställningsmeny"
+
+#: languages/vue.php:5130
+msgid "Total Users"
+msgstr "Totalt antal användare"
+
+#: languages/vue.php:207
+msgid "1,938"
+msgstr "1938"
+
+#: languages/vue.php:3104
+msgid "New Customers"
+msgstr "Nya kunder"
+
+#: languages/vue.php:2911
+msgid "Local SEO"
+msgstr "Lokal SEO"
+
+#: languages/vue.php:4612
+msgid "Switch to AIOSEO"
+msgstr "Byt till AIOSEO"
+
+#: languages/vue.php:1124
+msgid "Congrats! All-in-One SEO Installed."
+msgstr "Grattis! All-in-One SEO Installerat."
+
+#: languages/vue.php:305
+msgid "Activate and Install the Plugin with just one click!"
+msgstr "Aktivera och installera tillägget med bara ett klick!"
+
+#: includes/helpers.php:2034
+msgid "Samoa"
+msgstr "Samoa"
+
+#: languages/vue.php:727
+msgid "Basic Options"
+msgstr "Grundalternativ"
+
+#: languages/vue.php:5410
+msgid "Used on over 4,000,000 websites!"
+msgstr "Används på över 4000000 webbplatser!"
+
+#: includes/admin/common.php:664
+msgid "The good news: updating WordPress has never been easier and only takes a few moments."
+msgstr "De goda nyheterna: att uppdatera WordPress har aldrig varit enklare och tar bara några ögonblick."
+
+#: includes/admin/common.php:659
+msgid "ACTION REQUIRED: Your WordPress version is putting your site at risk!"
+msgstr "ÅTGÄRD KRÄVS: Din WordPress-version utsätter din webbplats för risker!"
+
+#: includes/admin/common.php:627
+msgid "ACTION REQUIRED: Your PHP version is putting your site at risk!"
+msgstr "ÅTGÄRD KRÄVS: Din PHP-version utsätter din webbplats för risker!"
+
+#: languages/vue.php:1448
+msgid "December"
+msgstr "December"
+
+#: languages/vue.php:3256
+msgid "November"
+msgstr "November"
+
+#: languages/vue.php:3266
+msgid "October"
+msgstr "Oktober"
+
+#: languages/vue.php:4252
+msgid "September"
+msgstr "September"
+
+#: languages/vue.php:591
+msgid "August"
+msgstr "Augusti"
+
+#: languages/vue.php:2687
+msgid "July"
+msgstr "Juli"
+
+#: languages/vue.php:2690
+msgid "June"
+msgstr "Juni"
+
+#: languages/vue.php:2952
+msgid "May"
+msgstr "Maj"
+
+#: languages/vue.php:564
+msgid "April"
+msgstr "April"
+
+#: languages/vue.php:2949
+msgid "March"
+msgstr "Mars"
+
+#: languages/vue.php:2037
+msgid "February"
+msgstr "Februari"
+
+#: languages/vue.php:2656
+msgid "January"
+msgstr "Januari"
+
+#: languages/vue.php:2090
+msgid "Follow Us!"
+msgstr "Följ oss!"
+
+#: languages/vue.php:2019
+msgid "Facebook Group"
+msgstr "Facebook-grupp"
+
+#: languages/vue.php:5819
+msgid "Write Review"
+msgstr "Skriv recension"
+
+#: languages/vue.php:1025
+msgid "Chris Christoff"
+msgstr "Chris Christoff"
+
+#: languages/vue.php:4615
+msgid "Syed Balkhi"
+msgstr "Syed Balkhi"
+
+#: languages/vue.php:4658
+msgid "Thank you for using ExactMetrics!"
+msgstr "Tack för att du använder ExactMetrics!"
+
+#: languages/vue.php:1054
+msgid "Clicks"
+msgstr "Klick"
+
+#: languages/vue.php:186
+msgid "%s Visitors"
+msgstr "%s besökare"
+
+#: languages/vue.php:5616
+msgid "Visit WPBeginner"
+msgstr "Besök WPBeginner"
+
+#: languages/vue.php:2670
+msgid "Join Now...It’s Free!"
+msgstr "Gå med nu … Det är gratis!"
+
+#: languages/vue.php:2841
+msgid "Leave a five star review!"
+msgstr "Lämna ett femstjärnigt betyg!"
+
+#: languages/vue.php:4465
+msgid "So, where did all of these visitors come from?"
+msgstr "Så, var kom alla dessa besökare ifrån?"
+
+#: languages/vue.php:5990
+msgid "Your Top 5 Keywords"
+msgstr "Dina 5 bästa nyckelord"
+
+#: languages/vue.php:1504
+msgid "Did you know over 10 million websites use our plugins?"
+msgstr "Vet du att över 10 miljoner webbplatser använder vårt tillägg?"
+
+#: languages/vue.php:1258
+msgid "Copyright ExactMetrics, %s"
+msgstr "Upphovsrätt ExactMetrics, %s"
+
+#: languages/vue.php:1495
+msgid "Device Type"
+msgstr "Enhetstyp"
+
+#: languages/vue.php:2992
+msgid "minutes"
+msgstr "minuter"
+
+#: languages/vue.php:5773
+msgid "Women"
+msgstr "Kvinnor"
+
+#: languages/vue.php:2931
+msgid "Male"
+msgstr "Män"
+
+#: languages/vue.php:2043
+msgid "Female"
+msgstr "Kvinna"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-gender.php:59
+#: languages/vue.php:2145
+msgid "Gender"
+msgstr "Kön"
+
+#: languages/vue.php:5625
+msgid "Visitors by Month"
+msgstr "Besökare efter månad"
+
+#: languages/vue.php:5124 lite/includes/emails/templates/body-summaries.php:136
+msgid "Total Sessions"
+msgstr "Totalt antal sessioner"
+
+#: languages/vue.php:5133
+#: lite/includes/emails/templates/body-summaries-plain.php:55
+#: lite/includes/emails/templates/body-summaries-test-plain.php:64
+#: lite/includes/emails/templates/body-summaries-test.php:170
+msgid "Total Visitors"
+msgstr "Totalt antal besökare"
+
+#: languages/vue.php:9
+msgid " visitors"
+msgstr " besökare"
+
+#: languages/vue.php:588
+msgid "Audience"
+msgstr "Publik"
+
+#: languages/vue.php:4579
+msgid "Still Calculating..."
+msgstr "Beräknar fortfarande …"
+
+#: languages/vue.php:4947
+msgid "Time Spent on Site"
+msgstr "Tid spenderat på webbplats"
+
+#: languages/vue.php:5993
+msgid "Your Top 5 Pages"
+msgstr "Dina 5 bästa sidor"
+
+#: languages/vue.php:668
+msgid "Average Age"
+msgstr "Genomsnittlig ålder"
+
+#: languages/vue.php:5930
+msgid "You Top 5 Countries"
+msgstr "Dina 5 bästa länder"
+
+#: languages/vue.php:21
+msgid "#1"
+msgstr "#1"
+
+#: includes/helpers.php:2042
+msgid "The Bahamas"
+msgstr "Bahamas"
+
+#: includes/helpers.php:2047
+msgid "United States of America"
+msgstr "Amerikas förenta stater"
+
+#: includes/helpers.php:2032
+msgid "St Vincent and the Grenadines"
+msgstr "Saint Vincent och Grenadinerna"
+
+#: includes/helpers.php:2031
+msgid "St Lucia"
+msgstr "Saint Lucia"
+
+#: includes/admin/notifications/notification-to-setup-affiliate-links.php:52
+msgid "Read More"
+msgstr "Läs mer"
+
+#: includes/admin/notifications/notification-audience.php:51
+#: includes/admin/notifications/notification-bounce-rate.php:45
+#: includes/admin/notifications/notification-mobile-device-low-traffic.php:37
+#: includes/admin/notifications/notification-traffic-dropping.php:48
+#: includes/admin/notifications/notification-visitors.php:42
+#: languages/vue.php:5574
+msgid "View Report"
+msgstr "Visa rapport"
+
+#: includes/admin/routes.php:1335
+msgid "Homepage"
+msgstr "Startsida"
+
+#. Translators: Readable time to display
+#: includes/admin/notifications.php:306
+msgid "%1$s ago"
+msgstr "%1$s sedan"
+
+#: includes/admin/admin.php:85
+msgid "Popular Posts:"
+msgstr "Populära inlägg:"
+
+#: languages/gutenberg.php:110 assets/gutenberg/js/editor.js:1990
+msgid "Choose Layout"
+msgstr "Välj layout"
+
+#: languages/gutenberg.php:89 assets/gutenberg/js/editor.js:1767
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/admin/admin.php:85 languages/gutenberg.php:83
+#: languages/vue.php:3655 assets/gutenberg/js/editor.js:1763
+msgid "Popular Posts"
+msgstr "Populära inlägg"
+
+#: languages/gutenberg.php:74 assets/gutenberg/js/editor.js:1281
+#: assets/gutenberg/js/editor.js:2338
+msgid "Theme"
+msgstr "Tema"
+
+#: languages/gutenberg.php:70 assets/gutenberg/js/editor.js:1154
+msgid "Icon Settings"
+msgstr "Ikoninställningar"
+
+#: languages/gutenberg.php:67 assets/gutenberg/js/editor.js:1151
+msgid "Icon Background Color"
+msgstr "Ikonens bakgrundsfärg"
+
+#: languages/gutenberg.php:64 assets/gutenberg/js/editor.js:1148
+msgid "Icon Color"
+msgstr "Ikonfärg"
+
+#: languages/gutenberg.php:61 assets/gutenberg/js/editor.js:1138
+#: assets/gutenberg/js/editor.js:2177
+msgid "Background Settings"
+msgstr "Bakgrundsinställningar"
+
+#: languages/gutenberg.php:57 assets/gutenberg/js/editor.js:1135
+#: assets/gutenberg/js/editor.js:2174
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: languages/gutenberg.php:49 assets/gutenberg/js/editor.js:1113
+#: assets/gutenberg/js/editor.js:1119 assets/gutenberg/js/editor.js:2152
+#: assets/gutenberg/js/editor.js:2158
+msgid "Border Color"
+msgstr "Ramfärg"
+
+#: languages/gutenberg.php:41 assets/gutenberg/js/editor.js:1106
+#: assets/gutenberg/js/editor.js:1981
+msgid "Label Settings"
+msgstr "Etikettinställningar"
+
+#: languages/gutenberg.php:33 assets/gutenberg/js/editor.js:1100
+#: assets/gutenberg/js/editor.js:1975
+msgid "Label Color"
+msgstr "Etikettfärg"
+
+#: languages/gutenberg.php:21 assets/gutenberg/js/editor.js:1084
+#: assets/gutenberg/js/editor.js:1934
+msgid "Title Color"
+msgstr "Rubrikfärg"
+
+#: languages/gutenberg.php:17 assets/gutenberg/js/editor.js:1081
+#: assets/gutenberg/js/editor.js:1931
+msgid "Title Font Size"
+msgstr "Textstorlek på rubrik"
+
+#: languages/gutenberg.php:13 assets/gutenberg/js/editor.js:954
+msgid "Inline"
+msgstr "Inline"
+
+#: languages/gutenberg.php:10 assets/gutenberg/js/editor.js:954
+#: assets/gutenberg/js/editor.js:1767
+msgid "Posts"
+msgstr "Inlägg"
+
+#: languages/gutenberg.php:6 assets/gutenberg/js/editor.js:954
+#: assets/gutenberg/js/editor.js:1767
+msgid "Popular"
+msgstr "Populär"
+
+#: languages/vue.php:1562
+msgid "Display in a Sidebar"
+msgstr "Visa i en sidopanel"
+
+#: languages/vue.php:1347
+msgid "Custom"
+msgstr "Anpassad"
+
+#: languages/vue.php:229
+msgid "30 days"
+msgstr "30 dagar"
+
+#: languages/vue.php:232
+msgid "7 days"
+msgstr "7 dagar"
+
+#: languages/vue.php:1431
+msgid "Days"
+msgstr "Dagar"
+
+#: languages/vue.php:3090
+msgid "Narrow"
+msgstr "Smal"
+
+#: languages/vue.php:5757
+msgid "Wide"
+msgstr "Bred"
+
+#: languages/gutenberg.php:116 languages/vue.php:3684
+#: assets/gutenberg/js/editor.js:2017
+msgid "Post Count"
+msgstr "Antal inlägg"
+
+#: languages/vue.php:1078
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: languages/gutenberg.php:143 languages/vue.php:1556
+#: assets/gutenberg/js/editor.js:2124
+msgid "Display Comments"
+msgstr "Visa kommentarer"
+
+#: languages/gutenberg.php:140 languages/vue.php:1559
+#: assets/gutenberg/js/editor.js:2111
+msgid "Display Date"
+msgstr "Visa datum"
+
+#: languages/gutenberg.php:137 languages/vue.php:1553
+#: assets/gutenberg/js/editor.js:2098
+msgid "Display Author"
+msgstr "Visa författare"
+
+#: languages/gutenberg.php:122 languages/vue.php:1568
+#: assets/gutenberg/js/editor.js:2050
+msgid "Display Options"
+msgstr "Visningsalternativ"
+
+#: languages/vue.php:612
+msgid "Author/Date"
+msgstr "Författare/datum"
+
+#: languages/vue.php:1245
+msgid "Copy Shortcode"
+msgstr "Kopiera kortkod"
+
+#: languages/vue.php:4355
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: languages/vue.php:5260
+msgid "Unlock with %s"
+msgstr "Lås upp med %s"
+
+#: includes/admin/ajax.php:180
+msgid "You are not allowed to deactivate plugins"
+msgstr "Du har inte behörighet att inaktivera tillägg"
+
+#: includes/admin/ajax.php:131
+msgid "You are not allowed to activate plugins"
+msgstr "Du har inte behörighet att aktivera tillägg"
+
+#: languages/gutenberg.php:53 assets/gutenberg/js/editor.js:1125
+#: assets/gutenberg/js/editor.js:2164
+msgid "Border Settings"
+msgstr "Raminställningar"
+
+#: languages/gutenberg.php:37 assets/gutenberg/js/editor.js:1103
+#: assets/gutenberg/js/editor.js:1978
+msgid "Label Background"
+msgstr "Etikettbakgrund"
+
+#: languages/vue.php:1737
+msgid "Enable Ajaxify"
+msgstr "Aktivera Ajaxify"
+
+#: includes/admin/sharedcount.php:309
+msgid "The SharedCount API key is invalid"
+msgstr "API-nyckeln för SharedCount är ogiltig"
+
+#: languages/gutenberg.php:134 assets/gutenberg/js/editor.js:2076
+msgid "Only Show Posts From These Categories"
+msgstr "Visa endast inlägg från dessa kategorier"
+
+#: languages/gutenberg.php:25 assets/gutenberg/js/editor.js:1087
+#: assets/gutenberg/js/editor.js:1937
+msgid "Title Settings"
+msgstr "Rubrikinställningar"
+
+#: languages/vue.php:1752
+msgid "Enable Automatic Placement"
+msgstr "Aktivera automatisk placering"
+
+#: languages/vue.php:5442
+msgid "Using Automatic Embed"
+msgstr "Använder automatisk inbäddning"
+
+#: languages/vue.php:1731
+msgid "Embed Options"
+msgstr "Inbäddningsalternativ"
+
+#: languages/vue.php:625
+msgid "Automatic Placement"
+msgstr "Automatisk placering"
+
+#: languages/vue.php:3305
+msgid "Only Show Posts from These Categories"
+msgstr "Visa endast inlägg från dessa kategorier"
+
+#: languages/vue.php:819
+msgid "Caching"
+msgstr "Cachning"
+
+#: languages/vue.php:1578
+msgid "Display using a Shortcode"
+msgstr "Visa med att använda kortkod"
+
+#: languages/vue.php:105
+msgid "%1$sPage %3$s%2$s of %4$s"
+msgstr "%1$sSida %3$s%2$s av %4$s"
+
+#: languages/vue.php:982
+msgid "Choose how many posts you’d like displayed in the widget."
+msgstr "Välj hur många inlägg du vill visa i widgeten."
+
+#: languages/vue.php:1015
+msgid "Choose which content you would like displayed in the widget."
+msgstr "Välj vilket innehåll du vill visa i widgeten."
+
+#: languages/gutenberg.php:128 assets/gutenberg/js/editor.js:2060
+msgid "Display Widget Title"
+msgstr "Visa widgetrubrik"
+
+#: languages/gutenberg.php:29 assets/gutenberg/js/editor.js:1097
+#: assets/gutenberg/js/editor.js:1972
+msgid "Label Text"
+msgstr "Etikettext"
+
+#: languages/vue.php:5518
+msgid "View all Pro features"
+msgstr "Visa alla Pro-funktioner"
+
+#: languages/vue.php:4840
+msgid "This feature requires ExactMetrics Pro"
+msgstr "Denna funktion kräver ExactMetrics Pro"
+
+#: languages/vue.php:5449
+msgid "Using the Shortcode"
+msgstr "Använder kortkoden"
+
+#: languages/vue.php:5344
+msgid "Upgrade to Pro and Unlock Popular Products"
+msgstr "Uppgradera till Pro och lås upp populära produkter"
+
+#: languages/vue.php:3739
+msgid "Pro version is required"
+msgstr "Pro-version krävs"
+
+#: languages/vue.php:1565
+msgid "Display Method"
+msgstr "Visningsmetod"
+
+#: languages/vue.php:1060
+msgid "Close"
+msgstr "Stäng"
+
+#: languages/vue.php:4064
+msgid "Search by post title"
+msgstr "Sök efter inläggsrubrik"
+
+#: languages/vue.php:3332
+msgid "Oops! No posts found."
+msgstr "Hoppsan! Inga inlägg hittades."
+
+#: languages/vue.php:4212
+msgid "Select posts/search"
+msgstr "Välj inlägg/sök"
+
+#: languages/vue.php:2382
+msgid "Icon"
+msgstr "Ikon"
+
+#: languages/vue.php:764
+msgid "Border"
+msgstr "Ram"
+
+#: languages/vue.php:721
+msgid "Background"
+msgstr "Bakgrund"
+
+#: languages/vue.php:2702
+msgid "Label"
+msgstr "Etikett"
+
+#: languages/vue.php:4438
+msgid "Size"
+msgstr "Storlek"
+
+#: languages/vue.php:1075
+msgid "Color"
+msgstr "Färg"
+
+#: languages/vue.php:3602
+msgid "Please enter a number"
+msgstr "Ange ett nummer"
+
+#: languages/gutenberg.php:131 languages/vue.php:5767
+#: assets/gutenberg/js/editor.js:2069
+msgid "Widget Title"
+msgstr "Widget-rubrik"
+
+#: languages/vue.php:1574
+msgid "Display Title"
+msgstr "Visa rubrik"
+
+#: languages/vue.php:5788
+msgid "words"
+msgstr "ord"
+
+#: languages/vue.php:2908
+msgid "Loading Themes"
+msgstr "Laddar in teman"
+
+#: languages/vue.php:1384
+msgid "Customize Design"
+msgstr "Anpassa design"
+
+#: languages/vue.php:2492
+msgid "Insert After"
+msgstr "Infoga efter"
+
+#: languages/vue.php:3583
+msgid "Placement"
+msgstr "Placering"
+
+#: languages/vue.php:4489
+msgid "Sort By"
+msgstr "Sortera efter"
+
+#: languages/vue.php:744
+msgid "Behavior"
+msgstr "Beteende"
+
+#: languages/vue.php:1009
+msgid "Choose Theme"
+msgstr "Välj tema"
+
+#: languages/vue.php:3192
+msgid "No Notifications"
+msgstr "Inga aviseringar"
+
+#: languages/vue.php:1550
+msgid "Dismissed"
+msgstr "Avfärdad"
+
+#: languages/vue.php:1543
+msgid "Dismiss All"
+msgstr "Avfärda alla"
+
+#: languages/vue.php:3253
+msgid "Notifications"
+msgstr "Aviseringar"
+
+#: languages/vue.php:2456
+msgid "Inbox"
+msgstr "Inkorg"
+
+#: languages/vue.php:3672
+msgid "Popular Products"
+msgstr "Populära produkter"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:377
+msgctxt "google-analytics-dashboard-for-wp"
+msgid "%dpx"
+msgstr "%dpx"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:283
+msgctxt "Widget"
+msgid "Background Color:"
+msgstr "Bakgrundsfärg:"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:280
+msgctxt "Widget"
+msgid "Border Color:"
+msgstr "Ramfärg:"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:274
+msgctxt "Widget"
+msgid "Label Color:"
+msgstr "Etikettfärg:"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:271
+msgctxt "Widget"
+msgid "Title Font Size:"
+msgstr "Textstorlek på rubrik:"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:266
+msgctxt "Widget"
+msgid "Title Color:"
+msgstr "Rubrikfärg:"
+
+#: languages/vue.php:4782
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:260
+msgid "Theme Preview"
+msgstr "Förhandsgranska tema"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:242
+msgctxt "Widget"
+msgid "Theme:"
+msgstr "Tema:"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:232
+msgctxt "Widget"
+msgid "Number of posts to display:"
+msgstr "Antal inlägg som ska visas:"
+
+#: languages/vue.php:4352
+msgid "SharedCount API Key"
+msgstr "SharedCount API-nyckel"
+
+#: languages/vue.php:2460
+msgid "Include in Post Types"
+msgstr "Inkludera i inläggstyper"
+
+#: languages/vue.php:5547
+msgid "View Dismissed"
+msgstr "Visa avfärdade"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:277
+msgctxt "Widget"
+msgid "Label Text:"
+msgstr "Etikettext:"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:75
+msgctxt "Widget"
+msgid "Display popular posts."
+msgstr "Visar populära inlägg."
+
+#: languages/vue.php:1002
+msgid "Choose the distance between widgets."
+msgstr "Välj avståndet mellan widgetar."
+
+#: languages/vue.php:2983
+msgid "Minimum Distance Between Widgets"
+msgstr "Minsta avstånd mellan widgetar"
+
+#: languages/vue.php:5113
+msgid "Total Number of Widgets to Show"
+msgstr "Totalt antal widgetar att visa"
+
+#: languages/vue.php:3611
+msgid "Please enter a value lower than %s"
+msgstr "Ange ett värde lägre än %s"
+
+#: languages/vue.php:3608
+msgid "Please enter a value higher than %s"
+msgstr "Ange ett värde högre än %s"
+
+#: languages/vue.php:3605
+msgid "Please enter a value between %1$s and %2$s"
+msgstr "Ange ett värde mellan %1$s och %2$s"
+
+#: languages/vue.php:4531
+msgid "Start Indexing"
+msgstr "Starta indexering"
+
+#: languages/vue.php:1968
+msgid "Exclude from specific posts"
+msgstr "Exkludera från specifika inlägg"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:292
+msgctxt "Widget"
+msgid "Only Show Posts from These Categories:"
+msgstr "Visa endast inlägg från dessa kategorier:"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:208
+msgctxt "Widget"
+msgid "Widget Title:"
+msgstr "Widgetrubrik:"
+
+#: languages/vue.php:5452
+msgid "Value has to be a round number"
+msgstr "Värdet måste vara ett avrundat tal"
+
+#: languages/vue.php:3620
+msgid "Please select at least one post to display."
+msgstr "Välj minst ett inlägg att visa."
+
+#: languages/vue.php:3079
+msgid "Multiple Entries"
+msgstr "Flera inlägg"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:227
+msgctxt "Widget"
+msgid "Display Widget Title"
+msgstr "Visa widgetrubrik"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1020
+msgid "more"
+msgstr "mer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1016
+msgid "good"
+msgstr "bra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1014
+msgid "media"
+msgstr "media"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1013
+msgid "girl"
+msgstr "flicka"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1012
+msgid "you'll"
+msgstr "du"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1011
+msgid "see"
+msgstr "se"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1010
+msgid "man"
+msgstr "man"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1008
+msgid "years"
+msgstr "år"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1007
+msgid "right"
+msgstr "höger"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1004
+msgid "year"
+msgstr "år"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1001
+msgid "facebook"
+msgstr "facebook"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:995
+msgid "photos"
+msgstr "foton"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:993
+msgid "dog"
+msgstr "hund"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:989
+msgid "boy"
+msgstr "pojke"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:988
+msgid "watch"
+msgstr "klocka"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:987
+msgid "out"
+msgstr "ut"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:982
+msgid "life"
+msgstr "liv"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:981
+msgid "best"
+msgstr "bäst"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:979
+msgid "old"
+msgstr "gammal"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:972
+msgid "time"
+msgstr "tid"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:970
+#: languages/vue.php:2318
+msgid "here"
+msgstr "här"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:967
+msgid "never"
+msgstr "aldrig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:966
+msgid "heart"
+msgstr "hjärta"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:965
+msgid "awesome"
+msgstr "fantastisk"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:938
+msgid "with"
+msgstr "med"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:937
+msgid "that"
+msgstr "det"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:935
+msgid "so"
+msgstr "så"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:934
+msgid "why"
+msgstr "varför"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:932
+msgid "who"
+msgstr "vem"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:927
+msgid "on"
+msgstr "på"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:926
+msgid "was"
+msgstr "var"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:925
+#: languages/vue.php:3270
+msgid "of"
+msgstr "av"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:924
+msgid "up"
+msgstr "upp"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:923
+msgid "not"
+msgstr "inte"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:922
+msgid "to"
+msgstr "till"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:921
+msgid "no"
+msgstr "nej"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:920
+msgid "this"
+msgstr "detta"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:918
+msgid "things"
+msgstr "saker"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:917
+msgid "most"
+msgstr "mest"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:915
+msgid "me"
+msgstr "jag"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:914
+msgid "these"
+msgstr "dessa"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:912
+msgid "like"
+msgstr "gilla"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:904
+msgid "in"
+msgstr "i"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:903
+msgid "by"
+msgstr "av"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:902
+msgid "if"
+msgstr "om"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:901
+msgid "but"
+msgstr "men"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:891
+msgid "and"
+msgstr "och"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:887
+msgid "all"
+msgstr "alla"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:885
+msgid "after"
+msgstr "efter"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:884
+msgid "from"
+msgstr "från"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:883
+msgid "about"
+msgstr "om"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:882
+msgid "for"
+msgstr "för"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:881
+msgid "a"
+msgstr "en"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:864
+msgid "download"
+msgstr "ladda ner"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:859
+msgid "surprise"
+msgstr "överaskning"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:856
+msgid "value"
+msgstr "värde"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:852
+msgid "strange"
+msgstr "konstig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:855
+msgid "weird"
+msgstr "tokigt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:850
+msgid "portfolio"
+msgstr "portfölj"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:848
+msgid "simple"
+msgstr "enkel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:844
+msgid "direct"
+msgstr "direkt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1021
+msgid "something"
+msgstr "någonting"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1019
+msgid "guy"
+msgstr "pojke"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1018
+msgid "social"
+msgstr "social"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1000
+msgid "world"
+msgstr "värld"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:984
+msgid "want"
+msgstr "vill"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:969
+msgid "baby"
+msgstr "baby"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:968
+msgid "think"
+msgstr "tänk"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:964
+msgid "thing"
+msgstr "sak"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:906
+msgid "is"
+msgstr "är"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:894
+msgid "her"
+msgstr "här"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:842
+msgid "amazing"
+msgstr "fantastisk"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:840
+msgid "easy"
+msgstr "enkel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:839
+msgid "miracle"
+msgstr "mirakel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:838
+msgid "urgent"
+msgstr "brådskande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:836
+msgid "quick"
+msgstr "snabb"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:835
+msgid "revolutionary"
+msgstr "revolutionerande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:834
+msgid "important"
+msgstr "viktigt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:833
+#: includes/gutenberg/headline-tool/headline-tool.php:975
+msgid "now"
+msgstr "nu"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:831
+msgid "quickly"
+msgstr "snabbt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:830
+msgid "latest"
+msgstr "senaste"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:829
+msgid "colossal"
+msgstr "kolossal"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:828
+msgid "monumental"
+msgstr "monumental"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:824
+msgid "last minute"
+msgstr "sista minuten"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:823
+msgid "security"
+msgstr "säkerhet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:820
+msgid "opportunities"
+msgstr "möjligheter"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:817
+msgid "useful"
+msgstr "användbar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:810
+msgid "promising"
+msgstr "lovande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:809
+msgid "enormous"
+msgstr "enorm"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:801
+#: includes/gutenberg/headline-tool/headline-tool.php:985
+msgid "better"
+msgstr "bättre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:798
+#: includes/gutenberg/headline-tool/headline-tool.php:973
+msgid "beautiful"
+msgstr "vacker"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:796
+msgid "special offer"
+msgstr "specialerbjudande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:781
+msgid "suddenly"
+msgstr "plötsligt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:779
+msgid "reliable"
+msgstr "tillförlitlig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:778
+msgid "innovative"
+msgstr "innovativ"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:770
+msgid "full"
+msgstr "full"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:769
+msgid "discount"
+msgstr "rabatt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:767
+msgid "gigantic"
+msgstr "gigantisk"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:765
+msgid "unlimited"
+msgstr "obegränsat"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:764
+msgid "fascinating"
+msgstr "fascinerande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:763
+msgid "quality"
+msgstr "kvalitet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:762
+msgid "approved"
+msgstr "godkänd"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:755
+msgid "last chance"
+msgstr "sista chansen"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:754
+msgid "attractive"
+msgstr "attraktiv"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:750
+msgid "willpower"
+msgstr "viljestyrka"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:749
+msgid "exclusive"
+msgstr "exklusiv"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:748
+msgid "rare"
+msgstr "sällsynt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:745
+msgid "popular"
+msgstr "populär"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:744
+msgid "liberal"
+msgstr "liberal"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:743
+msgid "informative"
+msgstr "informativ"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:742
+msgid "affordable"
+msgstr "prisvärd"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:741
+msgid "big"
+msgstr "stor"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:740
+msgid "instructive"
+msgstr "instruktiv"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:739
+msgid "genuine"
+msgstr "genuin"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:738
+msgid "colorful"
+msgstr "färgrik"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:737
+msgid "powerful"
+msgstr "kraftfull"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:736
+msgid "energy"
+msgstr "energi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:735
+msgid "unsurpassed"
+msgstr "oöverträffad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:734
+msgid "compare"
+msgstr "jämför"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:732
+msgid "outstanding"
+msgstr "enastående"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:731
+msgid "destiny"
+msgstr "öde"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:730
+msgid "the truth about"
+msgstr "sanningen om"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:729
+msgid "limited"
+msgstr "begränsad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:728
+msgid "unusual"
+msgstr "ovanlig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:727
+msgid "pioneering"
+msgstr "banbrytande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:726
+msgid "advice"
+msgstr "råd"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:725
+msgid "immediately"
+msgstr "genast"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:724
+msgid "strong"
+msgstr "stark"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:722
+msgid "expert"
+msgstr "expert"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:721
+msgid "improved"
+msgstr "förbättrad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:719
+msgid "hurry"
+msgstr "skynda"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:718
+msgid "highest"
+msgstr "högsta"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:717
+msgid "tested"
+msgstr "testad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:715
+msgid "bargain"
+msgstr "förhandla"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:714
+msgid "lifetime"
+msgstr "livstid"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:713
+msgid "special"
+msgstr "special"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:712
+msgid "secrets"
+msgstr "hemligheter"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:710
+msgid "challenge"
+msgstr "utmaning"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:709
+msgid "guaranteed"
+msgstr "garanterat"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:708
+msgid "delivered"
+msgstr "levererad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:707
+msgid "revisited"
+msgstr "återbesök"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:706
+msgid "interesting"
+msgstr "intressant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:705
+msgid "professional"
+msgstr "professionell"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:704
+msgid "wonderful"
+msgstr "underbar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:702
+msgid "absolutely lowest"
+msgstr "absolut lägst"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:701
+#: includes/gutenberg/headline-tool/headline-tool.php:971
+msgid "new"
+msgstr "ny"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:699
+msgid "obsession"
+msgstr "besatthet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:698
+msgid "wanted"
+msgstr "efterlyst"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:697
+msgid "sale"
+msgstr "rea"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:696
+msgid "confidential"
+msgstr "konfidentiell"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:695
+msgid "remarkable"
+msgstr "anmärkningsvärd"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:694
+msgid "focus"
+msgstr "fokus"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:693
+msgid "free"
+msgstr "gratis"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:692
+msgid "great"
+msgstr "bra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:674
+msgid "to be"
+msgstr "att vara"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:673
+msgid "surprisingly"
+msgstr "förvånande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:672
+msgid "you see"
+msgstr "du ser"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:671
+msgid "tired"
+msgstr "trött"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:670
+msgid "surprising"
+msgstr "förvånande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:978
+msgid "know"
+msgstr "vet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:837
+msgid "unlock"
+msgstr "lås upp"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:813
+msgid "spotlight"
+msgstr "strålkastare"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:804
+msgid "selected"
+msgstr "vald"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:711
+msgid "unique"
+msgstr "unik"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1003
+msgid "reasons"
+msgstr "orsaker"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:962
+msgid "happened"
+msgstr "hände"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:943
+msgid "there"
+msgstr "där"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:941
+msgid "their"
+msgstr "deras"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:900
+msgid "I"
+msgstr "jag"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:862
+msgid "excellent"
+msgstr "excellent"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:858
+msgid "sensational"
+msgstr "sensationell"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:847
+msgid "proven"
+msgstr "bevisat"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:846
+msgid "exciting"
+msgstr "spännande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:845
+msgid "authentic"
+msgstr "äkta"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:825
+msgid "largest"
+msgstr "största"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:803
+msgid "noted"
+msgstr "noterad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:785
+msgid "perspective"
+msgstr "perspektiv"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:782
+msgid "it's here"
+msgstr "det är här"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:773
+msgid "fundamentals"
+msgstr "grundläggande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1017
+msgid "mind"
+msgstr "sinne"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:999
+msgid "really"
+msgstr "verkligen"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:998
+msgid "made"
+msgstr "gjord"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:997
+msgid "down"
+msgstr "ner"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:992
+msgid "way"
+msgstr "sätt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:991
+msgid "people"
+msgstr "personer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:990
+msgid "look"
+msgstr "se"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:974
+msgid "its"
+msgstr "det är"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:961
+msgid "actually"
+msgstr "faktiskt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:896
+msgid "his"
+msgstr "hans"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:895
+msgid "as"
+msgstr "som"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:889
+msgid "an"
+msgstr "ett"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:886
+msgid "get"
+msgstr "skaffa"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:860
+msgid "insider"
+msgstr "insider"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:854
+msgid "revealing"
+msgstr "avslöjande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:851
+msgid "reward"
+msgstr "belöning"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:843
+msgid "magic"
+msgstr "magi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:822
+msgid "greatest"
+msgstr "störst"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:821
+msgid "survival"
+msgstr "överlevnad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:819
+msgid "bonanza"
+msgstr "bonanza"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:818
+msgid "imagination"
+msgstr "fantasi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:816
+msgid "successful"
+msgstr "lyckad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:815
+msgid "timely"
+msgstr "i god tid"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:814
+msgid "astonishing"
+msgstr "förvånande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:808
+msgid "sturdy"
+msgstr "kraftig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:806
+msgid "growth"
+msgstr "tillväxt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:797
+msgid "reduced"
+msgstr "nedsatt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:793
+msgid "skill"
+msgstr "kompetens"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:792
+msgid "helpful"
+msgstr "hjälpsam"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:787
+msgid "breakthrough"
+msgstr "genombrott"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:786
+msgid "just arrived"
+msgstr "nyinkommet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:774
+msgid "mammoth"
+msgstr "mammut"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:772
+msgid "odd"
+msgstr "udda"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:771
+#: includes/gutenberg/headline-tool/headline-tool.php:994
+msgid "love"
+msgstr "kärlek"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:759
+msgid "exploit"
+msgstr "utnyttja"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:758
+msgid "easily"
+msgstr "lätt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:756
+msgid "superior"
+msgstr "överlägsen"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:753
+msgid "valuable"
+msgstr "värdefull"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:752
+msgid "edge"
+msgstr "kant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:746
+msgid "ultimate"
+msgstr "ultimat"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1006
+msgid "makes"
+msgstr "gör"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:963
+msgid "need"
+msgstr "behöver"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:911
+msgid "ever"
+msgstr "någonsin"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:863
+msgid "delighted"
+msgstr "förtjust"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:861
+msgid "practical"
+msgstr "praktisk"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:857
+msgid "introducing"
+msgstr "introducerar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:811
+msgid "unconditional"
+msgstr "ovillkorlig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:807
+msgid "luxury"
+msgstr "lyx"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:789
+msgid "launching"
+msgstr "lansering"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1015
+msgid "seen"
+msgstr "sett"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1009
+msgid "found"
+msgstr "hittad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:996
+msgid "ways"
+msgstr "sätt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:986
+msgid "little"
+msgstr "liten"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:669
+msgid "you see what"
+msgstr "du ser vad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:666
+msgid "thrilling"
+msgstr "spännande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:665
+msgid "you need to know"
+msgstr "du behöver veta"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:662
+msgid "wounded"
+msgstr "sårad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:661
+msgid "this is"
+msgstr "detta är"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:659
+msgid "worry"
+msgstr "oroa"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:658
+msgid "uplifting"
+msgstr "upplyftande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:655
+msgid "unusually"
+msgstr "ovanligt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:654
+msgid "this is what happens"
+msgstr "det här är vad som händer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:653
+msgid "this is the"
+msgstr "det här är"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:651
+msgid "thing ive ever seen"
+msgstr "sak jag någonsin sett"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:650
+msgid "unscrupulous"
+msgstr "samvetslös"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:649
+msgid "the reason why is"
+msgstr "orsaken till varför"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:648
+msgid "stupid"
+msgstr "dum"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:647
+msgid "will make you"
+msgstr "kommer göra dig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:645
+msgid "stunning"
+msgstr "fantastisk"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:643
+msgid "the ranking of"
+msgstr "rankningen av"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:638
+msgid "that will"
+msgstr "det kommer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:637
+msgid "strangle"
+msgstr "strypa"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:636
+msgid "when you"
+msgstr "när du"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:635
+msgid "unexpected"
+msgstr "oväntat"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:634
+msgid "that will make"
+msgstr "det kommer göra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:633
+msgid "undo"
+msgstr "ångra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:629
+msgid "staggering"
+msgstr "förbluffande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:628
+msgid "what happens"
+msgstr "vad händer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:627
+msgid "under"
+msgstr "under"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:625
+msgid "what happens when"
+msgstr "vad händer när"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:623
+msgid "what happened"
+msgstr "vad hände"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:621
+msgid "tempting"
+msgstr "frestande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:620
+msgid "spine"
+msgstr "ryggrad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:619
+msgid "unbelievably"
+msgstr "otroligt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:618
+msgid "temporary fix"
+msgstr "tillfällig lösning"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:617
+msgid "spectacular"
+msgstr "spektakulär"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:614
+msgid "warning"
+msgstr "varning"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:606
+msgid "vulnerable"
+msgstr "sårbar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:605
+msgid "truth"
+msgstr "sanning"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:604
+msgid "targeted"
+msgstr "målinriktad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:599
+msgid "smuggled"
+msgstr "smugglad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:598
+msgid "viral"
+msgstr "viral"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:591
+msgid "victory"
+msgstr "seger"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:590
+msgid "treasure"
+msgstr "skatt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:589
+msgid "taboo"
+msgstr "tabu"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:588
+msgid "sleazy"
+msgstr "sjaskig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:587
+msgid "victim"
+msgstr "offer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:586
+msgid "trap"
+msgstr "fälla"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:576
+msgid "never again"
+msgstr "aldrig mer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:574
+msgid "remarkably"
+msgstr "anmärkningsvärt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:572
+msgid "myths"
+msgstr "myter"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:570
+msgid "pointless"
+msgstr "meningslös"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:562
+msgid "silly"
+msgstr "dum"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:561
+msgid "refugee"
+msgstr "flykting"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:559
+msgid "money"
+msgstr "pengar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:558
+msgid "sick and tired"
+msgstr "sjuk och trött"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:557
+msgid "plague"
+msgstr "plåga"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:556
+msgid "mistakes"
+msgstr "misstag"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:547
+msgid "minute"
+msgstr "minut"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:546
+msgid "shameless"
+msgstr "skamlös"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:545
+msgid "mind-blowing"
+msgstr "häpnadsväckande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:543
+msgid "might look like a"
+msgstr "kan se ut som en"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:542
+msgid "payback"
+msgstr "hämnd"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:541
+msgid "meltdown"
+msgstr "härdsmälta"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:539
+msgid "pay zero"
+msgstr "betala noll"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:538
+msgid "massive"
+msgstr "massiv"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:536
+msgid "quadruple"
+msgstr "fyrdubbla"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:535
+msgid "panic"
+msgstr "panik"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:533
+msgid "punish"
+msgstr "straffa"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:532
+msgid "pale"
+msgstr "blek"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:531
+msgid "secure"
+msgstr "säker"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:529
+msgid "painful"
+msgstr "smärtsam"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:528
+msgid "make you"
+msgstr "gör dig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:527
+msgid "provocative"
+msgstr "provokativ"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:525
+msgid "searing"
+msgstr "brännande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:524
+msgid "scream"
+msgstr "skrika"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:523
+msgid "protected"
+msgstr "skyddad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:520
+msgid "scary"
+msgstr "skrämmande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:517
+msgid "luxurious"
+msgstr "lyxig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:516
+msgid "official"
+msgstr "officiell"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:515
+msgid "lust"
+msgstr "lust"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:514
+msgid "ruthless"
+msgstr "hänsynslös"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:512
+msgid "offer"
+msgstr "erbjudande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:510
+msgid "risky"
+msgstr "riskabel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:509
+msgid "private"
+msgstr "privat"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:506
+msgid "rich"
+msgstr "rik"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:505
+msgid "privacy"
+msgstr "integritet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:502
+msgid "prison"
+msgstr "fängelse"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:495
+msgid "looks like a"
+msgstr "ser ut som en"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:494
+msgid "lonely"
+msgstr "ensam"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:493
+msgid "revenge"
+msgstr "hämnd"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:492
+msgid "no questions asked"
+msgstr "inga frågor ställda"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:491
+msgid "loathsome"
+msgstr "avskyvärd"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:490
+msgid "pound"
+msgstr "pund"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:489
+msgid "no good"
+msgstr "inte bra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:487
+msgid "results"
+msgstr "resultat"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:486
+msgid "nightmare"
+msgstr "mardröm"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:485
+msgid "like a normal"
+msgstr "som en normal"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:482
+msgid "lies"
+msgstr "lögner"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:481
+msgid "explode"
+msgstr "explodera"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:480
+msgid "lick"
+msgstr "slicka"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:478
+msgid "illegal"
+msgstr "olaglig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:476
+msgid "lawsuit"
+msgstr "rättegång"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:475
+msgid "hypnotic"
+msgstr "hypnotisk"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:474
+msgid "frightening"
+msgstr "skrämmande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:472
+msgid "excited"
+msgstr "upphetsad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:471
+msgid "hurricane"
+msgstr "orkan"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:467
+msgid "how to make"
+msgstr "hur man gör"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:466
+msgid "epic"
+msgstr "episk"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:462
+msgid "killer"
+msgstr "mördare"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:455
+msgid "forgotten"
+msgstr "glömt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:453
+msgid "high"
+msgstr "hög"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:450
+msgid "jail"
+msgstr "häkte"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:449
+msgid "hidden"
+msgstr "dold"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:448
+msgid "forbidden"
+msgstr "förbjudet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:447
+msgid "jackpot"
+msgstr "jackpott"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:446
+msgid "help are the"
+msgstr "hjälp är"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:445
+msgid "for the first time"
+msgstr "för första gången"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:443
+msgid "it looks like a"
+msgstr "det ser ut som en"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:442
+msgid "helpless"
+msgstr "hjälplös"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:441
+msgid "fooled"
+msgstr "lurad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:440
+msgid "is what happens when"
+msgstr "är vad som händer när"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:436
+msgid "irresistibly"
+msgstr "oemotståndligt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:435
+msgid "hate"
+msgstr "hata"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:431
+msgid "happy"
+msgstr "glad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:429
+msgid "drowning"
+msgstr "drunknar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:428
+msgid "invasion"
+msgstr "invasion"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:427
+msgid "had enough"
+msgstr "fått nog"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:423
+msgid "double"
+msgstr "dubbel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:422
+msgid "gullible"
+msgstr "godtrogen"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:420
+msgid "dollar"
+msgstr "dollar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:418
+msgid "feast"
+msgstr "fest"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:417
+msgid "disinformation"
+msgstr "desinformation"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:416
+msgid "fearless"
+msgstr "orädd"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:415
+msgid "disgusting"
+msgstr "äcklig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:414
+msgid "insanely"
+msgstr "galet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:411
+msgid "fantastic"
+msgstr "fantastisk"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:410
+msgid "disastrous"
+msgstr "katastrofal"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:406
+msgid "grateful"
+msgstr "tacksam"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:405
+msgid "faith"
+msgstr "tro"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:402
+msgid "devoted"
+msgstr "hängiven"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:401
+msgid "in the world"
+msgstr "i världen"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:400
+msgid "gift"
+msgstr "gåva"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:398
+msgid "devastating"
+msgstr "förödande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:396
+msgid "extra"
+msgstr "extra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:395
+msgid "destroy"
+msgstr "förstöra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:316
+msgid "Question"
+msgstr "Fråga"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:305
+#: includes/gutenberg/headline-tool/headline-tool.php:919
+msgid "my"
+msgstr "min"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:302
+#: includes/gutenberg/headline-tool/headline-tool.php:942
+msgid "your"
+msgstr "din"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:301
+#: includes/gutenberg/headline-tool/headline-tool.php:931
+msgid "she"
+msgstr "hon"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:300
+#: includes/gutenberg/headline-tool/headline-tool.php:892
+msgid "he"
+msgstr "han"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:298
+#: includes/gutenberg/headline-tool/headline-tool.php:940
+msgid "you"
+msgstr "du"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:294
+#: includes/gutenberg/headline-tool/headline-tool.php:311
+#: includes/gutenberg/headline-tool/headline-tool.php:893
+msgid "are"
+msgstr "är"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:293
+#: includes/gutenberg/headline-tool/headline-tool.php:310
+#: includes/gutenberg/headline-tool/headline-tool.php:905
+msgid "can"
+msgstr "kan"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:291
+#: includes/gutenberg/headline-tool/headline-tool.php:308
+msgid "does"
+msgstr "gör"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:290
+#: includes/gutenberg/headline-tool/headline-tool.php:307
+#: includes/gutenberg/headline-tool/headline-tool.php:888
+msgid "has"
+msgstr "har"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:288
+#: includes/gutenberg/headline-tool/headline-tool.php:928
+msgid "what"
+msgstr "vad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:287
+#: includes/gutenberg/headline-tool/headline-tool.php:898
+msgid "how"
+msgstr "hur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:286
+#: includes/gutenberg/headline-tool/headline-tool.php:930
+msgid "when"
+msgstr "när"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:285
+msgid "where"
+msgstr "var"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:279
+msgid "List"
+msgstr "Lista"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:270
+msgid "twelve"
+msgstr "tolv"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:269
+msgid "eleven"
+msgstr "elva"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:268
+msgid "nine"
+msgstr "nio"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:267
+msgid "eight"
+msgstr "åtta"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:266
+msgid "seven"
+msgstr "sju"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:265
+msgid "six"
+msgstr "sex"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:264
+msgid "five"
+msgstr "fem"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:263
+msgid "four"
+msgstr "fyra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:261
+msgid "two"
+msgstr "två"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:260
+#: includes/gutenberg/headline-tool/headline-tool.php:983
+msgid "one"
+msgstr "ett"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:272
+msgid "fift"
+msgstr "femte"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:234
+msgid "Perfect"
+msgstr "Perfekt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:218
+msgid "uncommon"
+msgstr "ovanlig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:212
+msgid "common"
+msgstr "vanlig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:206
+msgid "emotion"
+msgstr "känsla"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:202
+msgid "Can Be Improved"
+msgstr "Kan förbättras"
+
+#: includes/admin/licensing/autoupdate.php:64
+msgid "Manage auto-updates"
+msgstr "Hantera automatiska uppdateringar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:295
+#: includes/gutenberg/headline-tool/headline-tool.php:312
+#: includes/gutenberg/headline-tool/headline-tool.php:936
+msgid "will"
+msgstr "kommer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:626
+msgid "terror"
+msgstr "terror"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:622
+msgid "uncommonly"
+msgstr "ovanligt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:596
+msgid "tank"
+msgstr "tank"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:456
+msgid "jeopardy"
+msgstr "jeopardy"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:597
+msgid "triple"
+msgstr "trippel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:668
+msgid "you need to"
+msgstr "du behöver"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:660
+msgid "sure"
+msgstr "absolut"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:657
+msgid "this is what"
+msgstr "detta är vad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:656
+msgid "wondrous"
+msgstr "underbar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:640
+msgid "the best"
+msgstr "bästa"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:639
+msgid "whip"
+msgstr "piska"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:631
+msgid "what this"
+msgstr "vad detta"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:624
+msgid "spirit"
+msgstr "ande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:616
+msgid "unauthorized"
+msgstr "obehörig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:615
+msgid "teetering"
+msgstr "vingla"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:612
+msgid "wanton"
+msgstr "hänsynslös"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:610
+msgid "tech"
+msgstr "teknik"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:609
+msgid "try before you buy"
+msgstr "testa innan du köper"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:608
+msgid "tawdry"
+msgstr "smaklös"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:607
+msgid "snob"
+msgstr "snobb"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:603
+msgid "sniveling"
+msgstr "snörvla"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:602
+msgid "volatile"
+msgstr "flyktig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:601
+msgid "triumph"
+msgstr "triumf"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:600
+msgid "tantalizing"
+msgstr "frestande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:582
+msgid "toxic"
+msgstr "giftig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:579
+msgid "to the"
+msgstr "till"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:569
+msgid "murder"
+msgstr "mord"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:565
+msgid "refund"
+msgstr "återbetalning"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:560
+msgid "played"
+msgstr "spelad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:555
+msgid "reclaim"
+msgstr "återta"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:521
+msgid "lying"
+msgstr "ljuger"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:513
+msgid "prize"
+msgstr "pris"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:511
+msgid "lurking"
+msgstr "lurar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:507
+msgid "lunatic"
+msgstr "galning"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:503
+msgid "lowest"
+msgstr "lägsta"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:501
+msgid "lost"
+msgstr "förlorad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:488
+msgid "line"
+msgstr "linje"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:483
+msgid "exposed"
+msgstr "utsatt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:477
+msgid "frugal"
+msgstr "sparsam"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:468
+msgid "evil"
+msgstr "ond"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:461
+msgid "hope"
+msgstr "hopp"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:439
+msgid "fool"
+msgstr "idiot"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:412
+msgid "greed"
+msgstr "girighet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:409
+msgid "famous"
+msgstr "känd"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:408
+msgid "dirty"
+msgstr "smutsig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:407
+msgid "inexpensive"
+msgstr "billig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:403
+msgid "fail"
+msgstr "misslyckas"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:397
+msgid "in a"
+msgstr "i en"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:303
+#: includes/gutenberg/headline-tool/headline-tool.php:908
+msgid "it"
+msgstr "det"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:299
+#: includes/gutenberg/headline-tool/headline-tool.php:304
+#: includes/gutenberg/headline-tool/headline-tool.php:916
+msgid "they"
+msgstr "de"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:292
+#: includes/gutenberg/headline-tool/headline-tool.php:309
+#: includes/gutenberg/headline-tool/headline-tool.php:909
+msgid "do"
+msgstr "gör"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:289
+#: includes/gutenberg/headline-tool/headline-tool.php:306
+#: includes/gutenberg/headline-tool/headline-tool.php:890
+msgid "have"
+msgstr "har"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:253
+#: includes/gutenberg/headline-tool/headline-tool.php:757
+msgid "how to"
+msgstr "hur man"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:224
+msgid "power"
+msgstr "energi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:646
+msgid "the most"
+msgstr "mest"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:571
+msgid "sinful"
+msgstr "syndig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:548
+msgid "rave"
+msgstr "rave"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:504
+msgid "of the"
+msgstr "av"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:473
+msgid "fresh on the mind"
+msgstr "kvar i minnet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:470
+msgid "frenzy"
+msgstr "frenesi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:463
+msgid "frantic"
+msgstr "utom sig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:460
+msgid "foul"
+msgstr "regelbrott"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:452
+msgid "force-fed"
+msgstr "tvångsmatad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:444
+msgid "embarrass"
+msgstr "besvära"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:438
+msgid "is the"
+msgstr "är"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:437
+msgid "hazardous"
+msgstr "farlig"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:432
+msgid "ironclad"
+msgstr "järnklädd"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:419
+msgid "insidious"
+msgstr "smygande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:399
+msgid "eye-opening"
+msgstr "ögonöppnande"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:274
+msgid "thousand"
+msgstr "tusende"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:273
+msgid "hundred"
+msgstr "hundrade"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:254
+msgid "How-To"
+msgstr "Hur man"
+
+#: languages/gutenberg.php:333 assets/gutenberg/js/editor.js:3562
+msgid "Goal: "
+msgstr "Mål: "
+
+#: languages/gutenberg.php:327 assets/gutenberg/js/editor.js:3480
+msgid "Analyze"
+msgstr "Analysera"
+
+#: languages/gutenberg.php:324 assets/gutenberg/js/editor.js:3425
+msgid "Score"
+msgstr "Poäng"
+
+#: languages/gutenberg.php:314 assets/gutenberg/js/editor.js:3222
+msgid "Too Many Words"
+msgstr "För många ord"
+
+#: languages/gutenberg.php:311 assets/gutenberg/js/editor.js:3218
+msgid "Reduce Word Count"
+msgstr "Minska antalet ord"
+
+#: languages/gutenberg.php:302 assets/gutenberg/js/editor.js:3208
+msgid "Not Enough Words"
+msgstr "Inte tillräckligt med ord"
+
+#: languages/gutenberg.php:299 assets/gutenberg/js/editor.js:3198
+msgid "Word Count"
+msgstr "Antal ord"
+
+#: languages/gutenberg.php:296 assets/gutenberg/js/editor.js:3123
+msgid "At least one"
+msgstr "Åtminstone ett"
+
+#: languages/gutenberg.php:281 assets/gutenberg/js/editor.js:3118
+msgid "Uncommon Words"
+msgstr "Ovanliga ord"
+
+#: languages/gutenberg.php:275 assets/gutenberg/js/editor.js:3116
+msgid "Common Words"
+msgstr "Vanliga ord"
+
+#: languages/gutenberg.php:236 assets/gutenberg/js/editor.js:2955
+msgid "Negative"
+msgstr "Negativ"
+
+#: languages/gutenberg.php:233 assets/gutenberg/js/editor.js:2955
+msgid "Positive"
+msgstr "Positiv"
+
+#: languages/gutenberg.php:230 assets/gutenberg/js/editor.js:2955
+msgid "Neutral"
+msgstr "Neutral"
+
+#: languages/gutenberg.php:180 assets/gutenberg/js/editor.js:2714
+#: assets/gutenberg/js/editor.js:3213
+msgid "Good"
+msgstr "Bra"
+
+#: languages/gutenberg.php:186 assets/gutenberg/js/editor.js:2717
+msgid "Too Long"
+msgstr "För lång"
+
+#: languages/gutenberg.php:173 assets/gutenberg/js/editor.js:2711
+msgid "Too Short"
+msgstr "För kort"
+
+#: languages/gutenberg.php:170 assets/gutenberg/js/editor.js:2687
+msgid "Character Count"
+msgstr "Antal tecken"
+
+#: languages/gutenberg.php:287 assets/gutenberg/js/editor.js:3120
+msgid "Emotional Words"
+msgstr "Emotionella ord"
+
+#: languages/gutenberg.php:203 assets/gutenberg/js/editor.js:2832
+msgid "Previous Scores"
+msgstr "Föregående poäng"
+
+#: languages/gutenberg.php:200 assets/gutenberg/js/editor.js:2772
+#: assets/gutenberg/js/editor.js:3358
+msgid "Current Score"
+msgstr "Nuvarande poäng"
+
+#: languages/gutenberg.php:192 assets/gutenberg/js/editor.js:2770
+msgid "New Score"
+msgstr "Ny poäng"
+
+#: languages/gutenberg.php:251 assets/gutenberg/js/editor.js:3049
+msgid "Headline Type"
+msgstr "Rubriktyp"
+
+#: languages/gutenberg.php:254 assets/gutenberg/js/editor.js:3099
+msgid "Word Balance"
+msgstr "Ordbalans"
+
+#. translators: %s - link to a site.
+#: includes/emails/templates/footer-default.php:45
+msgid "Sent from %s"
+msgstr "Skickat från %s"
+
+#: includes/helpers.php:722
+msgid "Unknown Country"
+msgstr "Okänt land"
+
+#: languages/vue.php:1998
+msgid "Export PDF Report"
+msgstr "Exportera PDF-rapport"
+
+#: languages/vue.php:5257
+msgid "Unlock PRO Features Now"
+msgstr "Lås upp PRO-funktioner nu"
+
+#: languages/vue.php:326
+msgid "Activating Pretty Links..."
+msgstr "Aktiverar Pretty Links …"
+
+#: languages/vue.php:4595
+msgid "Success"
+msgstr "Lyckades"
+
+#: languages/vue.php:5571
+msgid "View notifications"
+msgstr "Visa aviseringar"
+
+#: languages/vue.php:2744
+msgid "Last 7 days"
+msgstr "Senaste 7 dagarna"
+
+#: languages/vue.php:2753
+msgid "Last Month"
+msgstr "Förra månaden"
+
+#: languages/vue.php:2766
+msgid "Last Week"
+msgstr "Förra veckan"
+
+#: languages/vue.php:2001
+msgid "Export PDF Reports"
+msgstr "Exportera PDF-rapporter"
+
+#: languages/vue.php:216
+msgid "2"
+msgstr "2"
+
+#: languages/vue.php:5471
+msgid "Verifying License..."
+msgstr "Verifierar licens …"
+
+#: languages/vue.php:311
+msgid "Activate Pretty Links"
+msgstr "Aktivera Pretty Links"
+
+#: languages/vue.php:1604
+msgid "Download Pretty Links"
+msgstr "Ladda ner Pretty Links"
+
+#: languages/vue.php:3690
+msgid "Pretty Links Installed & Activated"
+msgstr "Pretty Links installerat och aktiverat"
+
+#: languages/vue.php:2551
+msgid "Install Pretty Links"
+msgstr "Installera Pretty Links"
+
+#: languages/vue.php:3443
+msgid "Over 200,000 websites use Pretty Links!"
+msgstr "Över 200 000 webbplatser använder Pretty Links!"
+
+#: languages/vue.php:3705
+msgid "PrettyLinks Integration"
+msgstr "PrettyLinks-integration"
+
+#: languages/vue.php:1255
+msgid "Copy to Pretty Links"
+msgstr "Kopiera till Pretty Links"
+
+#: languages/vue.php:1034
+msgid "Classic mode"
+msgstr "Klassiskt läge"
+
+#: includes/gutenberg/site-insights/templates/graph/class-graph-newvsreturning.php:59
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-newvsreturning.php:90
+msgid "Returning Visitors"
+msgstr "Återkommande besökare"
+
+#: includes/gutenberg/site-insights/templates/graph/class-graph-newvsreturning.php:58
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-newvsreturning.php:89
+msgid "New Visitors"
+msgstr "Nya besökare"
+
+#: languages/vue.php:203
+msgid "1"
+msgstr "1"
+
+#: includes/admin/notifications/notification-upgrade-for-custom-dimensions.php:25
+#: includes/admin/notifications/notification-upgrade-for-events-reporting.php:25
+#: includes/admin/notifications/notification-upgrade-for-post-templates.php:25
+#: languages/vue.php:5298 languages/vue.php:5308
+#: lite/includes/admin/helpers.php:85
+msgid "Upgrade to ExactMetrics Pro"
+msgstr "Uppgradera till ExactMetrics Pro"
+
+#: lite/includes/admin/reports/report-realtime.php:22
+msgid "Real Time"
+msgstr "Realtid"
+
+#: lite/includes/admin/onboarding-wizard.php:178
+msgid "Return to Dashboard"
+msgstr "Tillbaka till adminpanel"
+
+#. Translators: The error message received.
+#: lite/includes/admin/wp-site-health.php:428
+msgid "Error message: %s"
+msgstr "Felmeddelande: %s"
+
+#: lite/includes/admin/wp-site-health.php:330
+msgid "Update Settings"
+msgstr "Uppdatera inställningar"
+
+#: lite/includes/admin/wp-site-health.php:325
+msgid "Automatic updates are disabled"
+msgstr "Automatiska uppdateringar är inaktiverat"
+
+#: lite/includes/admin/wp-site-health.php:307
+msgid "Your website is receiving automatic updates"
+msgstr "Din webbplats tar emot automatiska uppdateringar"
+
+#: lite/includes/admin/wp-site-health.php:292
+msgid "Go to License Settings"
+msgstr "Gå till licensinställningar"
+
+#: lite/includes/admin/wp-site-health.php:238
+msgid "View Reports"
+msgstr "Visa rapporter"
+
+#. translators: Post type archive title. %s: Post type name
+#: includes/helpers.php:1352
+msgid "Archives: %s"
+msgstr "Arkiv: %s"
+
+#: includes/helpers.php:1348
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chattar"
+
+#: includes/helpers.php:1346
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ljud"
+
+#: includes/helpers.php:1344
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusar"
+
+#: includes/helpers.php:1342
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Länkar"
+
+#: includes/helpers.php:1340
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citat"
+
+#: includes/helpers.php:1338
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videoklipp"
+
+#: includes/helpers.php:1336
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: includes/helpers.php:1334
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: includes/helpers.php:1332
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Notiser"
+
+#. translators: Daily archive title. %s: Date
+#: includes/helpers.php:1329
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#. translators: Monthly archive title. %s: Month name and year
+#: includes/helpers.php:1326
+msgid "Month: %s"
+msgstr "Månad: %s"
+
+#. translators: Yearly archive title. %s: Year
+#: includes/helpers.php:1323
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: Yearly archive title. %s: Year
+#: includes/helpers.php:1323
+msgid "Year: %s"
+msgstr "År: %s"
+
+#. translators: Author archive title. %s: Author name
+#: includes/helpers.php:1320
+msgid "Author: %s"
+msgstr "Författare: %s"
+
+#. translators: Tag archive title. %s: Tag name
+#: includes/helpers.php:1317
+msgid "Tag: %s"
+msgstr "Etikett: %s"
+
+#. translators: Category archive title. %s: Category name
+#: includes/helpers.php:1314
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: includes/helpers.php:1310
+msgid "Archives"
+msgstr "Arkiv"
+
+#: includes/helpers.php:721 includes/helpers.php:2051
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: includes/helpers.php:720 includes/helpers.php:2050
+msgid "Zambia"
+msgstr "Zambia"
+
+#: includes/helpers.php:713
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: includes/helpers.php:712
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: includes/helpers.php:711 includes/helpers.php:2049
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: includes/helpers.php:710
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: includes/helpers.php:708
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: includes/helpers.php:707
+msgid "United Arab Emirates"
+msgstr "Förenade Arabemiraten"
+
+#: includes/helpers.php:706
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: includes/helpers.php:705 includes/helpers.php:2048
+msgid "Uganda"
+msgstr "Uganda"
+
+#: includes/helpers.php:704 includes/helpers.php:2045
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: includes/helpers.php:702
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: includes/helpers.php:701
+msgid "Turkey"
+msgstr "Turkiet"
+
+#: includes/helpers.php:700
+msgid "Tunisia"
+msgstr "Tunisien"
+
+#: includes/helpers.php:699 includes/helpers.php:2041
+msgid "Trinidad and Tobago"
+msgstr "Trinidad och Tobago"
+
+#: includes/helpers.php:698 includes/helpers.php:2044
+msgid "Tonga"
+msgstr "Tonga"
+
+#: includes/helpers.php:696
+msgid "Togo"
+msgstr "Togo"
+
+#: includes/helpers.php:694
+msgid "Thailand"
+msgstr "Thailand"
+
+#: includes/helpers.php:693 includes/helpers.php:2043
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: includes/helpers.php:692
+msgid "Tajikistan"
+msgstr "Tadzjikistan"
+
+#: includes/helpers.php:691
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: includes/helpers.php:690
+msgid "Syrian Arab Republic"
+msgstr "Syriska arabiska republiken"
+
+#: includes/helpers.php:689
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: includes/helpers.php:688
+msgid "Sweden"
+msgstr "Sverige"
+
+#: includes/helpers.php:687 includes/helpers.php:2033
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: includes/helpers.php:684 includes/helpers.php:2040
+msgid "Sudan"
+msgstr "Sudan"
+
+#: includes/helpers.php:683
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: includes/helpers.php:682
+msgid "Spain"
+msgstr "Spanien"
+
+#: includes/helpers.php:680
+msgid "South Korea"
+msgstr "Sydkorea"
+
+#: includes/helpers.php:679
+msgid "South Georgia"
+msgstr "Sydgeorgien"
+
+#: includes/helpers.php:678 includes/helpers.php:2038
+msgid "South Africa"
+msgstr "Sydafrika"
+
+#: includes/helpers.php:677
+msgid "Somalia"
+msgstr "Somalia"
+
+#: includes/helpers.php:675
+msgid "Slovenia"
+msgstr "Slovenien"
+
+#: includes/helpers.php:673 includes/helpers.php:2029
+msgid "Singapore"
+msgstr "Singapore"
+
+#: includes/helpers.php:672 includes/helpers.php:2036
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: includes/helpers.php:671 includes/helpers.php:2035
+msgid "Seychelles"
+msgstr "Seychellerna"
+
+#: includes/helpers.php:670
+msgid "Serbia"
+msgstr "Serbien"
+
+#: includes/helpers.php:669
+msgid "Senegal"
+msgstr "Senegal"
+
+#: includes/helpers.php:668
+msgid "Saudi Arabia"
+msgstr "Saudiarabien"
+
+#: includes/helpers.php:666
+msgid "San Marino"
+msgstr "San Marino"
+
+#: includes/helpers.php:657 includes/helpers.php:2028
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: includes/helpers.php:655
+msgid "Romania"
+msgstr "Rumänien"
+
+#: includes/helpers.php:652
+msgid "Qatar"
+msgstr "Qatar"
+
+#: includes/helpers.php:651
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: includes/helpers.php:650
+msgid "Portugal"
+msgstr "Portugal"
+
+#: includes/helpers.php:649
+msgid "Poland"
+msgstr "Polen"
+
+#: includes/helpers.php:647 includes/helpers.php:2027
+msgid "Philippines"
+msgstr "Filippinerna"
+
+#: includes/helpers.php:646
+msgid "Peru"
+msgstr "Peru"
+
+#: includes/helpers.php:645
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: includes/helpers.php:644 includes/helpers.php:2026
+msgid "Papua New Guinea"
+msgstr "Papua Nya Guinea"
+
+#: includes/helpers.php:643
+msgid "Panama"
+msgstr "Panama"
+
+#: includes/helpers.php:641 includes/helpers.php:2025
+msgid "Palau"
+msgstr "Palau"
+
+#: includes/helpers.php:640 includes/helpers.php:2024
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: includes/helpers.php:639
+msgid "Oman"
+msgstr "Oman"
+
+#: includes/helpers.php:638
+msgid "Norway"
+msgstr "Norge"
+
+#: includes/helpers.php:636
+msgid "North Korea"
+msgstr "Nordkorea"
+
+#: includes/helpers.php:634
+msgid "Niue"
+msgstr "Niue"
+
+#: includes/helpers.php:633 includes/helpers.php:2023
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: includes/helpers.php:632
+msgid "Niger"
+msgstr "Niger"
+
+#: includes/helpers.php:631
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: includes/helpers.php:630 includes/helpers.php:2020
+msgid "New Zealand"
+msgstr "Nya Zeeland"
+
+#: includes/helpers.php:626
+msgid "Nepal"
+msgstr "Nepal"
+
+#: lite/includes/admin/welcome.php:56 lite/includes/admin/welcome.php:57
+msgid "Welcome to ExactMetrics"
+msgstr "Välkommen till ExactMetrics"
+
+#: lite/includes/admin/tools.php:13
+msgid "Click here to Upgrade"
+msgstr "Klicka här för att uppgradera"
+
+#: includes/helpers.php:612 includes/helpers.php:2018
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: includes/helpers.php:608 includes/helpers.php:2016
+msgid "Malta"
+msgstr "Malta"
+
+#: includes/helpers.php:607
+msgid "Mali"
+msgstr "Mali"
+
+#: includes/helpers.php:606
+msgid "Maldives"
+msgstr "Maldiverna"
+
+#: includes/helpers.php:605
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: includes/helpers.php:604 includes/helpers.php:2015
+msgid "Malawi"
+msgstr "Malawi"
+
+#: includes/helpers.php:603
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: includes/helpers.php:601
+msgid "Macau"
+msgstr "Macau"
+
+#: includes/helpers.php:600
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: includes/helpers.php:599
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: includes/helpers.php:598
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: includes/helpers.php:596 includes/helpers.php:2014
+msgid "Liberia"
+msgstr "Liberia"
+
+#: includes/helpers.php:595 includes/helpers.php:2013
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: includes/helpers.php:594
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: includes/helpers.php:593
+msgid "Latvia"
+msgstr "Lettland"
+
+#: includes/helpers.php:590
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: includes/helpers.php:588 includes/helpers.php:2011
+msgid "Kenya"
+msgstr "Kenya"
+
+#: includes/helpers.php:587
+msgid "Kazakhstan"
+msgstr "Kazakstan"
+
+#: includes/helpers.php:586
+msgid "Jordan"
+msgstr "Jordanien"
+
+#: includes/helpers.php:585
+msgid "Jersey"
+msgstr "Jersey"
+
+#: includes/helpers.php:584
+msgid "Japan"
+msgstr "Japan"
+
+#: includes/helpers.php:583 includes/helpers.php:2010
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: includes/helpers.php:582
+msgid "Italy"
+msgstr "Italien"
+
+#: includes/helpers.php:581
+msgid "Israel"
+msgstr "Israel"
+
+#: includes/helpers.php:579 includes/helpers.php:2008
+msgid "Ireland"
+msgstr "Irland"
+
+#: includes/helpers.php:578
+msgid "Iraq"
+msgstr "Irak"
+
+#: includes/helpers.php:577
+msgid "Iran"
+msgstr "Iran"
+
+#: includes/helpers.php:576
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: includes/helpers.php:575 includes/helpers.php:2009
+msgid "India"
+msgstr "Indien"
+
+#: includes/helpers.php:574
+msgid "Iceland"
+msgstr "Island"
+
+#: includes/helpers.php:573
+msgid "Hungary"
+msgstr "Ungern"
+
+#: includes/helpers.php:571
+msgid "Honduras"
+msgstr "Honduras"
+
+#: includes/helpers.php:568
+msgid "Haiti"
+msgstr "Haiti"
+
+#: includes/helpers.php:567 includes/helpers.php:2005
+msgid "Guyana"
+msgstr "Guyana"
+
+#: includes/helpers.php:566
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: includes/helpers.php:565
+msgid "Guinea"
+msgstr "Guinea"
+
+#: includes/helpers.php:564
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: includes/helpers.php:563
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: includes/helpers.php:562
+msgid "Guam"
+msgstr "Guam"
+
+#: includes/helpers.php:561
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: includes/helpers.php:560 includes/helpers.php:2004
+msgid "Grenada"
+msgstr "Grenada"
+
+#: includes/helpers.php:559
+msgid "Greenland"
+msgstr "Grönland"
+
+#: includes/helpers.php:558
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: includes/helpers.php:557 includes/helpers.php:2007
+msgid "Ghana"
+msgstr "Ghana"
+
+#: includes/helpers.php:556
+msgid "Greece"
+msgstr "Grekland"
+
+#: includes/helpers.php:555
+msgid "Germany"
+msgstr "Tyskland"
+
+#: includes/helpers.php:554
+msgid "Georgia"
+msgstr "Georgien"
+
+#: includes/helpers.php:553 includes/helpers.php:2006
+msgid "Gambia"
+msgstr "Gambia"
+
+#: includes/helpers.php:552
+msgid "Gabon"
+msgstr "Gabon"
+
+#: includes/helpers.php:548
+msgid "France"
+msgstr "Frankrike"
+
+#: includes/helpers.php:547
+msgid "Finland"
+msgstr "Finland"
+
+#: includes/helpers.php:546 includes/helpers.php:2003
+msgid "Fiji"
+msgstr "Fiji"
+
+#: includes/helpers.php:544
+msgid "Falkland Islands"
+msgstr "Falklandsöarna"
+
+#: includes/helpers.php:543
+msgid "Ethiopia"
+msgstr "Etiopien"
+
+#: includes/helpers.php:542
+msgid "Estonia"
+msgstr "Estland"
+
+#: includes/helpers.php:541
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: includes/helpers.php:540
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: includes/helpers.php:538
+msgid "Egypt"
+msgstr "Egypten"
+
+#: includes/helpers.php:537
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: includes/helpers.php:535
+msgid "Dominican Republic"
+msgstr "Dominikanska republiken"
+
+#: includes/helpers.php:534 includes/helpers.php:2002
+msgid "Dominica"
+msgstr "Dominica"
+
+#: includes/helpers.php:533
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: includes/helpers.php:532
+msgid "Denmark"
+msgstr "Danmark"
+
+#: includes/helpers.php:530
+msgid "Cyprus"
+msgstr "Cypern"
+
+#: includes/helpers.php:528
+msgid "Cuba"
+msgstr "Kuba"
+
+#: includes/helpers.php:527
+msgid "Croatia/Hrvatska"
+msgstr "Kroatien/Hrvatska"
+
+#: includes/helpers.php:525
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: includes/helpers.php:520
+msgid "Colombia"
+msgstr "Colombia"
+
+#: includes/helpers.php:519
+msgid "Cocos Islands"
+msgstr "Kokosöarna"
+
+#: includes/helpers.php:518
+msgid "Christmas Island"
+msgstr "Julön"
+
+#: includes/helpers.php:517
+msgid "China"
+msgstr "Kina"
+
+#: includes/helpers.php:516
+msgid "Chile"
+msgstr "Chile"
+
+#: includes/helpers.php:514
+msgid "Central African Republic"
+msgstr "Centralafrikanska republiken"
+
+#: includes/helpers.php:513
+msgid "Cayman Islands"
+msgstr "Caymanöarna"
+
+#: includes/helpers.php:512
+msgid "Cape Verde"
+msgstr "Kap Verde"
+
+#: includes/helpers.php:511 includes/helpers.php:2000
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: includes/helpers.php:510
+msgid "Cambodia"
+msgstr "Kambodja"
+
+#: includes/helpers.php:509 includes/helpers.php:1999
+msgid "Burundi"
+msgstr "Burundi"
+
+#: includes/helpers.php:508
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: includes/helpers.php:507
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: includes/helpers.php:506
+msgid "Brunei Darrussalam"
+msgstr "Brunei Darussalam"
+
+#: includes/helpers.php:504
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: includes/helpers.php:502 includes/helpers.php:1998
+msgid "Botswana"
+msgstr "Botswana"
+
+#: includes/helpers.php:501
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnien och Hercegovina"
+
+#: includes/helpers.php:500
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "Bonaire, Saint Eustatius och Saba"
+
+#: includes/helpers.php:499
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: includes/helpers.php:498
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: includes/helpers.php:497
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: includes/helpers.php:496
+msgid "Benin"
+msgstr "Benin"
+
+#: includes/helpers.php:495 includes/helpers.php:1997
+msgid "Belize"
+msgstr "Belize"
+
+#: includes/helpers.php:494
+msgid "Belgium"
+msgstr "Belgien"
+
+#: includes/helpers.php:493
+msgid "Belarus"
+msgstr "Vitryssland"
+
+#: includes/helpers.php:492 includes/helpers.php:1996
+msgid "Barbados"
+msgstr "Barbados"
+
+#: includes/helpers.php:491
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: includes/helpers.php:490
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: includes/helpers.php:489
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: includes/helpers.php:487
+msgid "Austria"
+msgstr "Österrike"
+
+#: includes/helpers.php:486 includes/helpers.php:1995
+msgid "Australia"
+msgstr "Australien"
+
+#: includes/helpers.php:485
+msgid "Aruba"
+msgstr "Aruba"
+
+#: includes/helpers.php:484
+msgid "Armenia"
+msgstr "Armenien"
+
+#: includes/helpers.php:483
+msgid "Argentina"
+msgstr "Argentina"
+
+#: includes/helpers.php:482 includes/helpers.php:1994
+msgid "Antigua and Barbuda"
+msgstr "Antigua och Barbuda"
+
+#: includes/helpers.php:481
+msgid "Antarctica"
+msgstr "Antarktis"
+
+#: includes/helpers.php:480
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: includes/helpers.php:479
+msgid "Angola"
+msgstr "Angola"
+
+#: includes/helpers.php:478
+msgid "Andorra"
+msgstr "Andorra"
+
+#: includes/helpers.php:477
+msgid "American Samoa"
+msgstr "Amerikanska Samoa"
+
+#: includes/helpers.php:476
+msgid "Algeria"
+msgstr "Algeriet"
+
+#: includes/helpers.php:475
+msgid "Albania"
+msgstr "Albanien"
+
+#: includes/helpers.php:473
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: includes/helpers.php:472 includes/helpers.php:2046
+msgid "United Kingdom"
+msgstr "Storbritannien"
+
+#: includes/helpers.php:471 includes/helpers.php:2001
+msgid "Canada"
+msgstr "Kanada"
+
+#: includes/helpers.php:470
+msgid "United States"
+msgstr "USA"
+
+#: includes/admin/review.php:157
+msgid "I already did"
+msgstr "Jag har redan gjort det"
+
+#: includes/admin/review.php:149
+msgid "Nope, maybe later"
+msgstr "Nej, kanske senare"
+
+#: includes/admin/review.php:141
+msgid "Ok, you deserve it"
+msgstr "Ok, du förtjänar det"
+
+#: lite/includes/admin/connect.php:176
+msgid "You are not licensed."
+msgstr "Du är inte licenserad."
+
+#: lite/includes/admin/connect.php:147 lite/includes/admin/connect.php:153
+#: lite/includes/admin/connect.php:206
+msgid "Plugin installed & activated."
+msgstr "Tillägg installerat och aktiverat."
+
+#: lite/includes/admin/connect.php:56
+msgid "Please enter your license key to connect."
+msgstr "Ange din licensnyckel för att ansluta."
+
+#: lite/includes/admin/wp-site-health.php:402
+msgid "Can connect to ExactMetrics.com correctly"
+msgstr "Kan ansluta till ExactMetrics.com korrekt"
+
+#: includes/helpers.php:719
+msgid "Yemen"
+msgstr "Jemen"
+
+#: includes/helpers.php:685
+msgid "Suriname"
+msgstr "Surinam"
+
+#: includes/helpers.php:681 includes/helpers.php:2039
+msgid "South Sudan"
+msgstr "Sydsudan"
+
+#: includes/helpers.php:676 includes/helpers.php:2037
+msgid "Solomon Islands"
+msgstr "Salomonöarna"
+
+#: includes/helpers.php:625 includes/helpers.php:2022
+msgid "Nauru"
+msgstr "Nauru"
+
+#: includes/helpers.php:624 includes/helpers.php:2021
+msgid "Namibia"
+msgstr "Namibia"
+
+#: includes/helpers.php:623
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: includes/helpers.php:622
+msgid "Mozambique"
+msgstr "Moçambique"
+
+#: includes/helpers.php:621
+msgid "Morocco"
+msgstr "Marocko"
+
+#: includes/helpers.php:620
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: includes/helpers.php:619
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: includes/helpers.php:618
+msgid "Mongolia"
+msgstr "Mongoliet"
+
+#: includes/helpers.php:617
+msgid "Monaco"
+msgstr "Monaco"
+
+#: includes/helpers.php:615 includes/helpers.php:2019
+msgid "Micronesia"
+msgstr "Mikronesien"
+
+#: includes/helpers.php:613
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: includes/helpers.php:610
+msgid "Martinique"
+msgstr "Martinique"
+
+#: includes/helpers.php:609 includes/helpers.php:2017
+msgid "Marshall Islands"
+msgstr "Marshallöarna"
+
+#: includes/helpers.php:591
+msgid "Kyrgyzstan"
+msgstr "Kirgizistan"
+
+#: includes/helpers.php:589 includes/helpers.php:2012
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: includes/helpers.php:550
+msgid "French Polynesia"
+msgstr "Franska Polynesien"
+
+#: includes/helpers.php:549
+msgid "French Guiana"
+msgstr "Franska Guyana"
+
+#: includes/helpers.php:545
+msgid "Faroe Islands"
+msgstr "Färöarna"
+
+#: lite/includes/admin/wp-site-health.php:254
+#: lite/includes/admin/wp-site-health.php:265
+msgid "Authenticate now"
+msgstr "Autentisera nu"
+
+#. translators: Daily archive title. %s: Date
+#: includes/helpers.php:1329
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#. translators: Monthly archive title. %s: Month name and year
+#: includes/helpers.php:1326
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: includes/helpers.php:503
+msgid "Bouvet Island"
+msgstr "Bouvetön"
+
+#: includes/helpers.php:505
+msgid "British Indian Ocean Territory"
+msgstr "Brittiska territoriet i Indiska oceanen"
+
+#: includes/helpers.php:515
+msgid "Chad"
+msgstr "Tchad"
+
+#: includes/helpers.php:521
+msgid "Comoros"
+msgstr "Komorerna"
+
+#: includes/helpers.php:524
+msgid "Cook Islands"
+msgstr "Cooköarna"
+
+#: includes/helpers.php:539
+msgid "Equatorial Guinea"
+msgstr "Ekvatorialguinea"
+
+#: includes/helpers.php:551
+msgid "French Southern Territories"
+msgstr "Franska sydterritorierna"
+
+#: includes/helpers.php:572
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: includes/helpers.php:580
+msgid "Isle of Man"
+msgstr "Isle of Man"
+
+#: includes/helpers.php:592
+msgid "Lao People's Democratic Republic"
+msgstr "Demokratiska folkrepubliken Laos"
+
+#: includes/helpers.php:597
+msgid "Libyan Arab Jamahiriya"
+msgstr "Staten Libyen"
+
+#: includes/helpers.php:611
+msgid "Mauritania"
+msgstr "Mauretanien"
+
+#: includes/helpers.php:614
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: includes/helpers.php:627
+msgid "Netherlands"
+msgstr "Nederländerna"
+
+#: includes/helpers.php:628
+msgid "Netherlands Antilles"
+msgstr "Nederländska Antillerna"
+
+#: includes/helpers.php:629
+msgid "New Caledonia"
+msgstr "Nya Kaledonien"
+
+#: includes/helpers.php:635
+msgid "Norfolk Island"
+msgstr "Norfolkön"
+
+#: includes/helpers.php:637
+msgid "Northern Mariana Islands"
+msgstr "Nordmarianerna"
+
+#: includes/helpers.php:656
+msgid "Russian Federation"
+msgstr "Ryssland"
+
+#: includes/helpers.php:659
+msgid "Saint Helena"
+msgstr "Sankta Helena"
+
+#: includes/helpers.php:661
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: includes/helpers.php:697
+msgid "Tokelau"
+msgstr "Tokelauöarna"
+
+#: includes/helpers.php:714
+msgid "Virgin Islands (British)"
+msgstr "Brittiska Jungfruöarna"
+
+#: includes/helpers.php:717
+msgid "Western Sahara"
+msgstr "Västsahara"
+
+#: includes/helpers.php:718
+msgid "Western Samoa"
+msgstr "Västra Samoa"
+
+#: includes/helpers.php:716
+msgid "Wallis and Futuna Islands"
+msgstr "Wallis- och Futunaöarna"
+
+#: includes/helpers.php:703
+msgid "Turks and Caicos Islands"
+msgstr "Turks- och Caicosöarna"
+
+#: includes/helpers.php:695
+msgid "Timor-Leste"
+msgstr "Östtimor"
+
+#: includes/helpers.php:686
+msgid "Svalbard and Jan Mayen Islands"
+msgstr "Svalbard and Jan Mayen"
+
+#: lite/includes/admin/wp-site-health.php:320
+msgid "Your website is receiving minor updates"
+msgstr "Din webbplats tar emot mindre uppdateringar"
+
+#: includes/helpers.php:488
+msgid "Azerbaijan"
+msgstr "Azerbajdzjan"
+
+#: lite/includes/admin/wp-site-health.php:372
+msgid "AMP pages are not being tracked"
+msgstr "AMP-sidor spåras inte"
+
+#: lite/includes/admin/wp-site-health.php:86
+msgid "ExactMetrics Tracking Code"
+msgstr "Spårningskod för ExactMetrics"
+
+#: lite/includes/admin/wp-site-health.php:80
+msgid "ExactMetrics Connection"
+msgstr "ExactMetrics-anslutning"
+
+#: includes/helpers.php:531
+msgid "Czechia"
+msgstr "Tjeckien"
+
+#: includes/helpers.php:526
+msgid "Cote d'Ivoire"
+msgstr "Elfenbenskusten"
+
+#: lite/includes/admin/wp-site-health.php:74
+msgid "ExactMetrics AMP"
+msgstr "ExactMetrics AMP"
+
+#: lite/includes/admin/wp-site-health.php:67
+msgid "ExactMetrics eCommerce"
+msgstr "ExactMetrics eCommerce"
+
+#: includes/helpers.php:536
+msgid "East Timor"
+msgstr "Östtimor"
+
+#: includes/helpers.php:529
+msgid "Cura&Ccedil;ao"
+msgstr "Cura&ccedil;ao"
+
+#: includes/helpers.php:665
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent och Grenadinerna"
+
+#: includes/helpers.php:664
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre och Miquelon"
+
+#: includes/helpers.php:660
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts och Nevis"
+
+#: includes/helpers.php:658
+msgid "Saint Barth&eacute;lemy"
+msgstr "Saint Barthelemy"
+
+#: includes/helpers.php:653
+msgid "Republic of Kosovo"
+msgstr "Republiken av Kosovo"
+
+#: includes/helpers.php:648
+msgid "Pitcairn Island"
+msgstr "Pitcairnöarna"
+
+#: languages/vue.php:43
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: languages/vue.php:5828
+msgid "Yes"
+msgstr "Ja"
+
+#. Translators: Placeholders add a link to the ExactMetrics website.
+#: includes/admin/admin.php:701 includes/admin/admin.php:751
+msgid "%1$sGet ExactMetrics Pro%2$s"
+msgstr "%1$sSkaffa ExactMetrics Pro%2$s"
+
+#: includes/admin/admin.php:352
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: includes/admin/admin.php:262 includes/admin/admin.php:365
+msgid "Network Settings"
+msgstr "Nätverksinställningar"
+
+#: includes/admin/admin.php:260 includes/admin/admin.php:262
+msgid "Network Settings:"
+msgstr "Nätverksinställningar:"
+
+#: includes/admin/admin.php:116 includes/admin/admin.php:280
+msgid "About Us:"
+msgstr "Om oss:"
+
+#: includes/admin/admin.php:104 includes/admin/admin.php:275
+msgid "Addons"
+msgstr "Utökningar"
+
+#: includes/admin/admin.php:104 includes/admin/admin.php:275
+msgid "Addons:"
+msgstr "Utökningar:"
+
+#: includes/admin/admin.php:99
+msgid "Tools"
+msgstr "Verktyg"
+
+#: includes/admin/admin.php:99
+msgid "Tools:"
+msgstr "Verktyg:"
+
+#: includes/admin/admin.php:49
+msgid "General:"
+msgstr "Allmänt:"
+
+#: includes/admin/admin.php:374
+#: includes/admin/notifications/notification-upgrade-eu-traffic.php:86
+#: includes/admin/notifications/notification-upgrade-for-custom-dimensions.php:31
+#: includes/admin/notifications/notification-upgrade-for-email-summaries.php:36
+#: includes/admin/notifications/notification-upgrade-for-events-reporting.php:31
+#: includes/admin/notifications/notification-upgrade-for-post-templates.php:31
+#: includes/admin/reports/abstract-report.php:519 languages/vue.php:2186
+msgid "Get ExactMetrics Pro"
+msgstr "Skaffa ExactMetrics Pro"
+
+#: includes/admin/reports/abstract-report.php:137
+msgid "No data found"
+msgstr "Ingen data hittad"
+
+#: includes/admin/pages/settings.php:121
+msgid "Resolve This Issue"
+msgstr "Lös detta problem"
+
+#: includes/admin/routes.php:1045 includes/admin/routes.php:1454
+msgid "Add your license"
+msgstr "Lägg till din licens"
+
+#: includes/admin/notice.php:238
+msgid "Dismiss this notice"
+msgstr "Avfärda denna notis"
+
+#: includes/admin/ajax.php:56
+msgid "You are not allowed to install plugins"
+msgstr "Du saknar behörighet att installera tillägg"
+
+#. Translators: Adds a link to renew license.
+#: includes/admin/admin.php:539
+msgid "Your network license key for ExactMetrics has expired. %1$sPlease click here to renew your license key.%2$s"
+msgstr "Din nätverkslicensnyckel för ExactMetrics har löpt ut. %1$sKlicka här för att förnya din licensnyckel.%2$s"
+
+#: includes/admin/admin.php:541
+msgid "Your network license key for ExactMetrics has been disabled. Please use a different key."
+msgstr "Din nätverkslicensnyckel för ExactMetrics har inaktiverats. Använd en annan nyckel."
+
+#: includes/admin/pages/settings.php:131
+msgid "View supported browsers"
+msgstr "Visa webbläsare som stöds"
+
+#: includes/admin/pages/settings.php:117
+msgid "Copy the error message above and paste it in a message to the ExactMetrics support team."
+msgstr "Kopiera felmeddelandet ovan och klistra in det i ett meddelande till ExactMetrics supportteam."
+
+#: includes/admin/routes.php:1174
+msgid "Missing plugin name."
+msgstr "Tilläggets namn saknas."
+
+#: includes/admin/routes.php:962
+msgid "Please upload a valid .json file"
+msgstr "Ladda upp en giltig .json-fil"
+
+#: includes/admin/notification-event.php:256
+#: lite/includes/emails/summaries.php:481
+msgid "You don't have permission to view ExactMetrics reports."
+msgstr "Du har inte behörighet att visa ExactMetrics-rapporter."
+
+#: includes/admin/admin.php:352
+msgid "ExactMetrics Knowledge Base"
+msgstr "ExactMetrics kunskapsbas"
+
+#: includes/admin/admin.php:55 includes/admin/admin.php:61
+#: includes/admin/admin.php:264
+msgid "General Reports:"
+msgstr "Allmänna rapporter:"
+
+#: includes/admin/pages/settings.php:126
+msgid "Your browser version is not supported"
+msgstr "Din webbläsarversion stöds inte"
+
+#: includes/admin/reports/abstract-report.php:553
+msgid "Please ask your webmaster to enable this addon."
+msgstr "Be din webbmaster att aktivera denna utökning."
+
+#: includes/frontend/frontend.php:261
+msgid "Tracking is Disabled for Administrators"
+msgstr "Spårning är inaktiverad för administratörer"
+
+#: includes/admin/api-auth.php:482
+msgid "Successfully verified."
+msgstr "Verifiering lyckades."
+
+#: gadwp.php:267 gadwp.php:281
+msgid "Cheatin&#8217; huh?"
+msgstr "Fuskar du, va?"
+
+#: languages/vue.php:1529
+msgid "Disconnect ExactMetrics"
+msgstr "Koppla från ExactMetrics"
+
+#: languages/vue.php:352
+msgid "Active Profile"
+msgstr "Aktiv profil"
+
+#: languages/vue.php:5695
+msgid "Website Profile"
+msgstr "Webbplatsprofil"
+
+#: languages/vue.php:5987
+msgid "Your site is connected to ExactMetrics!"
+msgstr "Din webbplats är ansluten till ExactMetrics!"
+
+#: languages/vue.php:5353
+msgid "Upgrade to Pro Version!"
+msgstr "Uppgradera till Pro-version!"
+
+#: languages/vue.php:1106
+msgid "Complete Upgrade"
+msgstr "Slutför uppgradering"
+
+#: languages/vue.php:5456
+msgid "Verify"
+msgstr "Verifiera"
+
+#: languages/vue.php:3539
+msgid "Paste your license key here"
+msgstr "Klistra in din licensnyckel här"
+
+#: languages/vue.php:183
+msgid "%s results"
+msgstr "%s resultat"
+
+#: languages/vue.php:4361
+msgid "Show"
+msgstr "Visa"
+
+#: languages/vue.php:1435
+msgid "Deactivate"
+msgstr "Inaktivera"
+
+#: languages/vue.php:1442
+msgid "Deactivating..."
+msgstr "Inaktiverar…"
+
+#: languages/vue.php:337
+msgid "Activating..."
+msgstr "Aktiverar…"
+
+#: languages/vue.php:512
+msgid "Allow usage tracking"
+msgstr "Tillåt användningsspårning"
+
+#: includes/admin/exclude-page-metabox.php:144 languages/gutenberg.php:378
+#: languages/vue.php:5269
+#: lite/includes/admin/user-journey/providers/class-abstract-lite-metabox.php:78
+#: lite/includes/admin/user-journey/providers/class-abstract-lite-metabox.php:116
+#: assets/gutenberg/js/editor.js:4191
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: languages/vue.php:3568
+msgid "Performance"
+msgstr "Prestanda"
+
+#: languages/vue.php:3233
+msgid "No, cancel!"
+msgstr "Nej, avbryt!"
+
+#: languages/vue.php:5834
+msgid "Yes, hide it!"
+msgstr "Ja, dölj det!"
+
+#: languages/vue.php:3195
+msgid "No options available"
+msgstr "Inga alternativ tillgängliga"
+
+#: languages/vue.php:3955
+msgid "Reset to default"
+msgstr "Återställ till standard"
+
+#: languages/gutenberg.php:345 languages/vue.php:2738
+#: lite/includes/admin/metaboxes.php:46 assets/gutenberg/js/editor.js:3926
+msgid "Last 30 days"
+msgstr "Senaste 30 dagarna"
+
+#: languages/vue.php:3140
+msgid "No change"
+msgstr "Ingen ändring"
+
+#: languages/vue.php:5294
+msgid "Upgrade to"
+msgstr "Uppgradera till"
+
+#: languages/vue.php:4097
+msgid "See all features"
+msgstr "Se alla funktioner"
+
+#: languages/vue.php:909
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: languages/vue.php:1168
+msgid "Connection Type"
+msgstr "Anslutningstyp"
+
+#: languages/vue.php:4941
+msgid "This password will not be stored on the server."
+msgstr "Detta lösenord kommer inte att lagras på servern."
+
+#: languages/vue.php:2126
+msgid "FTP Password"
+msgstr "FTP-lösenord"
+
+#: languages/vue.php:2129
+msgid "FTP Username"
+msgstr "FTP-användarnamn"
+
+#: languages/vue.php:1165
+msgid "Connection Information"
+msgstr "Anslutningsinformation"
+
+#: languages/vue.php:3745
+msgid "Proceed"
+msgstr "Fortsätt"
+
+#: languages/vue.php:3249
+msgid "Not Installed"
+msgstr "Inte installerat"
+
+#: languages/vue.php:4545
+msgid "Status: %s"
+msgstr "Status: %s"
+
+#: languages/vue.php:2452
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: languages/vue.php:346
+msgid "Active"
+msgstr "Aktiv"
+
+#: languages/vue.php:599
+msgid "Authenticating"
+msgstr "Autentiserar"
+
+#: languages/vue.php:349
+msgid "Active profile"
+msgstr "Aktiv profil"
+
+#: languages/vue.php:5692
+msgid "Website profile"
+msgstr "Webbplatsprofil"
+
+#: languages/vue.php:1133 languages/vue.php:1144
+msgid "Connect ExactMetrics"
+msgstr "Anslut ExactMetrics"
+
+#: languages/vue.php:5248
+msgid "Unlock All Features and Upgrade to Pro"
+msgstr "Lås upp alla funktioner och uppgradera till Pro"
+
+#: languages/vue.php:3920
+msgid "Remove row"
+msgstr "Ta bort rad"
+
+#: languages/vue.php:1619
+msgid "Duplicate values are not allowed."
+msgstr "Duplicerade värden är inte tillåtna."
+
+#: languages/vue.php:180
+msgid "%s can't be empty."
+msgstr "%s kan inte vara tomt."
+
+#: languages/vue.php:2608
+msgid "Installing..."
+msgstr "Installerar…"
+
+#: languages/vue.php:3070
+msgid "More data is available"
+msgstr "Mer data är tillgänglig"
+
+#: languages/vue.php:5999
+msgid "Your Website"
+msgstr "Din webbplats"
+
+#: languages/vue.php:4450
+msgid "Skip this Step"
+msgstr "Hoppa över detta steg"
+
+#: languages/vue.php:1183
+msgid "Continue & Install WPForms"
+msgstr "Fortsätt och installera WPForms"
+
+#: languages/vue.php:4103
+msgid "See All Reports"
+msgstr "Se alla rapporter"
+
+#: languages/vue.php:1943 languages/vue.php:3040
+msgid "ExactMetrics Recommends WPForms"
+msgstr "ExactMetrics rekommenderar WPForms"
+
+#: languages/vue.php:2096
+msgid "Force Deauthenticate"
+msgstr "Tvinga avautentisering"
+
+#: languages/vue.php:1136
+msgid "Connect ExactMetrics to Start Tracking Your Data"
+msgstr "Anslut ExactMetrics för att börja spåra din data"
+
+#: languages/vue.php:4997
+msgid "To unlock more features consider upgrading to PRO."
+msgstr "För att låsa upp fler funktioner, överväg att uppgradera till PRO."
+
+#: languages/vue.php:881
+msgid "Can't load errors. Error: %1$s, %2$s"
+msgstr "Kan inte ladda fel. Fel: %1$s, %2$s"
+
+#: languages/vue.php:4444
+msgid "Skip and Keep Connection"
+msgstr "Hoppa över och behåll anslutning"
+
+#: languages/vue.php:875
+msgid "Can't deactivate the license. Error: %1$s, %2$s"
+msgstr "Kan inte inaktivera licensen. Fel: %1$s, %2$s"
+
+#: languages/vue.php:2306
+msgid "Help Us Improve"
+msgstr "Hjälp oss att förbättra"
+
+#: languages/vue.php:2252
+msgid "Google AMP"
+msgstr "Google AMP"
+
+#: languages/vue.php:5301
+msgid "Upgrade to ExactMetrics Pro Now"
+msgstr "Uppgradera till ExactMetrics Pro nu"
+
+#: languages/vue.php:5877
+msgid "You appear to be offline. Settings not saved."
+msgstr "Du verkar vara offline. Inställningar är inte sparade."
+
+#: languages/vue.php:5864
+msgid "You appear to be offline."
+msgstr "Du verkar vara offline."
+
+#: languages/vue.php:5706
+msgid "Welcome to ExactMetrics!"
+msgstr "Välkommen till ExactMetrics!"
+
+#: languages/vue.php:5254
+msgid "Unlock Form Tracking"
+msgstr "Lås upp formulärspårning"
+
+#: includes/admin/admin.php:55 includes/admin/admin.php:264
+#: languages/vue.php:3939
+msgid "Reports"
+msgstr "Rapporter"
+
+#: languages/vue.php:506
+msgid "Allow These User Roles to Save Settings"
+msgstr "Tillåt dessa användarroller att spara inställningar"
+
+#: languages/vue.php:509
+msgid "Allow These User Roles to See Reports"
+msgstr "Tillåt dessa användarroller att se rapporter"
+
+#: includes/admin/admin.php:127
+msgid "Upgrade to Pro:"
+msgstr "Uppgradera till Pro:"
+
+#: languages/vue.php:4345
+msgid "Setup Wizard"
+msgstr "Installationsguide"
+
+#: languages/vue.php:810
+msgid "Business Website"
+msgstr "Företagswebbplats"
+
+#: languages/vue.php:5870
+msgid "You appear to be offline. Addon not installed."
+msgstr "Du verkar vara offline. Utökning är inte installerat."
+
+#: languages/vue.php:5873
+msgid "You appear to be offline. Plugin not installed."
+msgstr "Du verkar vara offline. Tillägg är inte installerat."
+
+#: languages/vue.php:5867
+msgid "You appear to be offline. Addon not deactivated."
+msgstr "Du verkar vara offline. Utökning är inte inaktiverat."
+
+#: languages/vue.php:960
+msgid "Checking your website..."
+msgstr "Kontrollerar din webbplats…"
+
+#: languages/vue.php:3440
+msgid "Our Pro plan includes:"
+msgstr "Våra Pro-paket inkluderar:"
+
+#: languages/vue.php:4100
+msgid "See All Features"
+msgstr "Se alla funktioner"
+
+#: languages/vue.php:4441
+msgid "Skip"
+msgstr "Hoppa över"
+
+#: languages/vue.php:2501
+msgid "install"
+msgstr "installera"
+
+#: languages/vue.php:280
+msgid "activate"
+msgstr "aktivera"
+
+#: languages/vue.php:3638
+msgid "Please wait"
+msgstr "Vänta"
+
+#: languages/vue.php:3896
+msgid "Redirecting"
+msgstr "Omdirigerar"
+
+#: languages/vue.php:1539
+msgid "Dismiss"
+msgstr "Avfärda"
+
+#: languages/vue.php:5498 lite/includes/admin/wp-site-health.php:357
+#: lite/includes/admin/wp-site-health.php:383
+msgid "View Addons"
+msgstr "Visa utökningar"
+
+#: languages/vue.php:1902
+msgid "Error: %1$s, %2$s"
+msgstr "Fel: %1$s, %2$s"
+
+#: languages/vue.php:3589
+msgid "Please activate manually"
+msgstr "Aktivera manuellt"
+
+#: languages/vue.php:402
+msgid "Addon Activated"
+msgstr "Utökning aktiverad"
+
+#: languages/vue.php:318
+msgid "Activating Addon"
+msgstr "Aktiverar utökning"
+
+#: languages/vue.php:2588
+msgid "Installing Addon"
+msgstr "Installerar utökning"
+
+#: languages/vue.php:2996
+msgid "Miscellaneous"
+msgstr "Övrigt"
+
+#: languages/vue.php:2862
+msgid "License Key"
+msgstr "Licensnyckel"
+
+#: languages/vue.php:972
+msgid "Choose file"
+msgstr "Välj fil"
+
+#: languages/vue.php:3183
+msgid "No file chosen"
+msgstr "Ingen fil vald"
+
+#: languages/vue.php:5368
+msgid "Uploading file..."
+msgstr "Laddar upp fil…"
+
+#: languages/vue.php:2004
+msgid "Export Settings"
+msgstr "Exportera inställningar"
+
+#: languages/vue.php:2406
+msgid "Import Settings"
+msgstr "Importera inställningar"
+
+#: languages/vue.php:3599
+msgid "Please choose a file to import"
+msgstr "Välj en fil att importera"
+
+#: languages/vue.php:1991
+msgid "Export"
+msgstr "Exportera"
+
+#: languages/vue.php:2399
+msgid "Import"
+msgstr "Importera"
+
+#: languages/vue.php:2412
+msgid "Import/Export"
+msgstr "Importera/exportera"
+
+#: languages/vue.php:2052
+msgid "File imported"
+msgstr "Fil importerad"
+
+#: languages/vue.php:665
+msgid "Available in PRO version"
+msgstr "Tillgänglig i PRO-version"
+
+#: languages/vue.php:398
+msgid "Additional Information"
+msgstr "Ytterligare information"
+
+#: languages/vue.php:1952
+msgid "Examples: %s"
+msgstr "Exempel: %s"
+
+#: languages/vue.php:1949
+msgid "Example: %s"
+msgstr "Exempel: %s"
+
+#: languages/vue.php:1252
+msgid "Copy to Clipboard"
+msgstr "Kopiera till urklipp"
+
+#: languages/vue.php:3073
+msgid "More Information & Examples"
+msgstr "Mer information och exempel"
+
+#: languages/vue.php:5375
+msgid "URL to use"
+msgstr "URL att använda"
+
+#: languages/vue.php:15
+msgid "(Updates automatically)"
+msgstr "(Uppdateras automatiskt)"
+
+#: languages/vue.php:1852
+msgid "Enter the paid keyword"
+msgstr "Ange det betalda nyckelordet"
+
+#: languages/vue.php:2238
+msgid "Go Back To Reports"
+msgstr "Gå tillbaka till rapporter"
+
+#: languages/vue.php:5609
+msgid "Visit addons page"
+msgstr "Visa sida för utökningar"
+
+#: languages/vue.php:3936
+msgid "Report Unavailable"
+msgstr "Rapport inte tillgänglig"
+
+#: languages/vue.php:1875
+msgid "Error Activating Addon"
+msgstr "Fel vid aktivering av utökning"
+
+#: languages/vue.php:2898
+msgid "Loading report data"
+msgstr "Laddar in rapportdata"
+
+#: languages/vue.php:851
+msgid "Campaign Name"
+msgstr "Kampanjnamn"
+
+#: languages/vue.php:2229 languages/vue.php:2232
+msgid "Getting Started with ExactMetrics"
+msgstr "Kom igång med ExactMetrics"
+
+#: languages/vue.php:132
+msgid "%1$sSee All Features%2$s"
+msgstr "%1$sSe alla funktioner%2$s"
+
+#: languages/vue.php:5703
+msgid "Welcome to"
+msgstr "Välkommen till"
+
+#: languages/vue.php:3828
+msgid "Read Documentation"
+msgstr "Läs dokumentationen"
+
+#: languages/vue.php:2287
+msgid "Guides and Documentation:"
+msgstr "Guider och dokumentation:"
+
+#: languages/vue.php:1930
+msgid "ExactMetrics Features & Addons"
+msgstr "Funktioner och utökningar för ExactMetrics"
+
+#: languages/vue.php:2141
+msgid "GDPR Guide"
+msgstr "GDPR-guide"
+
+#: includes/admin/admin.php:127
+#: includes/admin/notifications/notification-upgrade-to-pro-high-traffic.php:41
+#: includes/admin/notifications/notification-upgrade-to-pro.php:33
+#: languages/vue.php:5313 lite/includes/emails/templates/body-summaries.php:384
+#: lite/includes/emails/templates/body-summaries.php:388
+msgid "Upgrade to Pro"
+msgstr "Uppgradera till Pro"
+
+#: languages/vue.php:3727
+msgid "Pro"
+msgstr "Pro"
+
+#: languages/vue.php:2883
+msgid "Lite"
+msgstr "Lite"
+
+#: languages/vue.php:3718
+msgid "Priority Support"
+msgstr "Prioriterad support"
+
+#: languages/vue.php:2868
+msgid "Limited Support"
+msgstr "Begränsad support"
+
+#: includes/admin/admin.php:357 includes/admin/admin.php:360
+#: languages/vue.php:4604
+msgid "Support"
+msgstr "Support"
+
+#: languages/vue.php:3245
+msgid "Not Available"
+msgstr "Inte tillgänglig"
+
+#: languages/vue.php:431
+msgid "Advanced Reports"
+msgstr "Avancerade rapporter"
+
+#: languages/vue.php:3470
+msgid "Overview Reports for the last 30 days."
+msgstr "Översiktrapporter de senaste 30 dagarna."
+
+#: languages/vue.php:4519
+msgid "Standard Reports"
+msgstr "Standardrapporter"
+
+#: languages/vue.php:3907
+msgid "Refreshing Addons"
+msgstr "Uppdaterar utökningar"
+
+#: languages/vue.php:3900
+msgid "Refresh Addons"
+msgstr "Uppdatera utökningar"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-sessions.php:36
+#: languages/vue.php:3530
+#: lite/includes/emails/templates/body-summaries-test.php:163
+#: lite/includes/emails/templates/body-summaries-test.php:249
+msgid "Pageviews"
+msgstr "Sidvisningar"
+
+#: languages/vue.php:3001
+msgid "Mobile"
+msgstr "Mobil"
+
+#: languages/vue.php:4620
+msgid "Tablet"
+msgstr "Surfplatta"
+
+#: languages/vue.php:1481
+msgid "Desktop"
+msgstr "Stationär dator"
+
+#: languages/vue.php:3971
+msgid "Returning"
+msgstr "Återkommande"
+
+#: languages/vue.php:4024
+msgid "Save and continue"
+msgstr "Spara och fortsätt"
+
+#: languages/vue.php:5745
+msgid "Who Can See Reports"
+msgstr "Vem kan se rapporter"
+
+#: languages/vue.php:2563
+msgid "Install Updates Automatically"
+msgstr "Installera uppdateringar automatiskt"
+
+#: languages/vue.php:3883
+msgid "Recommended Settings"
+msgstr "Rekommenderade inställningar"
+
+#: languages/vue.php:371
+msgid "Add domain"
+msgstr "Lägg till domän"
+
+#: languages/vue.php:4028
+msgid "Save and Continue"
+msgstr "Spara och fortsätt"
+
+#: languages/vue.php:3133
+msgid "No addons found."
+msgstr "Inga utökningar hittades."
+
+#: languages/vue.php:2025
+msgid "Feature"
+msgstr "Funktion"
+
+#: languages/vue.php:1587
+msgid "Domain (example: %s)"
+msgstr "Domän (exempel: %s)"
+
+#: languages/vue.php:1743
+msgid "Enable allowLinker"
+msgstr "Aktivera allowLinker"
+
+#: languages/vue.php:1740
+msgid "Enable allowAnchor"
+msgstr "Aktivera allowAnchor"
+
+#: languages/vue.php:197
+msgid "+ Add Role"
+msgstr "+ Lägg till roll"
+
+#: languages/vue.php:2467
+msgid "Included"
+msgstr "Inkluderad"
+
+#: languages/vue.php:2363
+msgid "How to Connect to Google Analytics"
+msgstr "Hur man ansluter till Google Analytics"
+
+#: languages/vue.php:1179
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: languages/vue.php:750
+msgid "Better Support"
+msgstr "Bättre support"
+
+#: languages/vue.php:5335
+msgid "Upgrade to PRO"
+msgstr "Uppgradera till PRO"
+
+#: includes/admin/notifications/notification-upgrade-for-form-conversion.php:31
+#: includes/admin/notifications/notification-upgrade-for-search-console.php:32
+#: includes/admin/reports/abstract-report.php:516 languages/vue.php:5291
+#: lite/includes/admin/woocommerce-marketing.php:79
+msgid "Upgrade Now"
+msgstr "Uppgradera nu"
+
+#: languages/vue.php:3555
+msgid "per year"
+msgstr "per år"
+
+#: languages/vue.php:4601
+msgid "Suggest a Feature"
+msgstr "Föreslå en funktion"
+
+#: languages/vue.php:2508
+msgid "Install"
+msgstr "Installera"
+
+#: languages/vue.php:288
+msgid "Activate"
+msgstr "Aktivera"
+
+#: languages/vue.php:3284
+msgid "Ok"
+msgstr "Ok"
+
+#: languages/vue.php:2235
+msgid "Go back"
+msgstr "Gå tillbaka"
+
+#: languages/vue.php:4552
+msgid "Step %1$s of %2$s"
+msgstr "Steg %1$s av %2$s"
+
+#: languages/vue.php:415
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:323
+#: languages/vue.php:2149
+msgid "General"
+msgstr "Allmänt"
+
+#: languages/vue.php:2889
+msgid "Lite vs Pro"
+msgstr "Jämför gratis och Pro"
+
+#: languages/vue.php:2226
+msgid "Getting Started"
+msgstr "Komma igång"
+
+#: includes/admin/admin.php:116 includes/admin/admin.php:280
+#: languages/vue.php:271
+msgid "About Us"
+msgstr "Om oss"
+
+#: languages/vue.php:2116 lite/includes/admin/reports/report-forms.php:22
+msgid "Forms"
+msgstr "Formulär"
+
+#: includes/admin/reports/overview.php:34 languages/vue.php:3457
+msgid "Overview"
+msgstr "Översikt"
+
+#: languages/vue.php:2834
+msgid "Learn more about updating PHP"
+msgstr "Lär dig mer om uppdatering av PHP"
+
+#: includes/admin/admin.php:505 includes/admin/common.php:646
+#: includes/admin/common.php:672 includes/admin/common.php:704
+#: includes/admin/notifications/notification-audience.php:55
+#: includes/admin/notifications/notification-bounce-rate.php:52
+#: includes/admin/notifications/notification-headline-analyzer.php:39
+#: includes/admin/notifications/notification-mobile-device-low-traffic.php:41
+#: includes/admin/notifications/notification-returning-visitors.php:43
+#: includes/admin/notifications/notification-traffic-dropping.php:43
+#: languages/vue.php:2827
+msgid "Learn More"
+msgstr "Lär dig mer"
+
+#: languages/vue.php:4061
+msgid "Search Addons"
+msgstr "Sök utökningar"
+
+#: languages/vue.php:1923 languages/vue.php:3007
+msgid "ExactMetrics Addons"
+msgstr "Utökningar för ExactMetrics"
+
+#: languages/vue.php:1514 lite/includes/admin/reports/report-dimensions.php:22
+msgid "Dimensions"
+msgstr "Dimensioner"
+
+#: languages/vue.php:3886 languages/vue.php:3890
+msgid "Reconnect ExactMetrics"
+msgstr "Anslut ExactMetrics igen"
+
+#: languages/vue.php:2838
+msgid "Learn more about updating WordPress"
+msgstr "Lär dig mer om uppdatering av WordPress"
+
+#: languages/vue.php:1359
+msgid "Custom Date Ranges"
+msgstr "Anpassade datumintervall"
+
+#: languages/vue.php:4074 lite/includes/admin/reports/report-queries.php:22
+msgid "Search Console"
+msgstr "Search Console"
+
+#: languages/vue.php:1660 lite/includes/admin/reports/report-ecommerce.php:22
+msgid "eCommerce"
+msgstr "e-handel"
+
+#: languages/vue.php:1980
+msgid "Exit Setup"
+msgstr "Avsluta inställning"
+
+#: languages/vue.php:5905
+msgid "You must connect with ExactMetrics before you can view reports."
+msgstr "Du måste ansluta med ExactMetrics innan du kan visa rapporter."
+
+#: languages/vue.php:5338
+msgid "Upgrade to Pro &#187;"
+msgstr "Uppgradera till Pro &#187;"
+
+#: languages/vue.php:4136
+msgid "See Quick Links"
+msgstr "Se snabblänkar"
+
+#: languages/vue.php:3736
+msgid "Pro Plan"
+msgstr "Pro-paket"
+
+#: languages/vue.php:4607
+msgid "Support & Docs"
+msgstr "Support och dokumentation"
+
+#: languages/vue.php:2676
+msgid "Join Our Community"
+msgstr "Gå med i vår community"
+
+#: languages/vue.php:1232
+msgid "Conversions"
+msgstr "Konverteringar"
+
+#: languages/vue.php:4336
+msgid "Settings Updated"
+msgstr "Inställningar uppdaterade"
+
+#. Translators: Adds an arrow icon.
+#: languages/vue.php:1193
+msgid "Continue %s"
+msgstr "Fortsätt %s"
+
+#: languages/vue.php:4036
+msgid "Saving Changes..."
+msgstr "Sparar ändringar…"
+
+#: languages/vue.php:3633
+msgid "Please try again."
+msgstr "Försök igen."
+
+#: languages/vue.php:1872
+msgid "Error"
+msgstr "Fel"
+
+#. Translators: Adds an ampersand.
+#: assets/lib/pandora/class-am-deactivation-survey.php:337
+msgid "Skip %s Deactivate"
+msgstr "Hoppa över %s inaktivera"
+
+#. Translators: Adds an ampersand.
+#: assets/lib/pandora/class-am-deactivation-survey.php:331
+msgid "Submit %s Deactivate"
+msgstr "Skicka %s inaktivera"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:299
+msgid "Quick Feedback"
+msgstr "Snabb feedback"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:287
+msgid "It's a temporary deactivation"
+msgstr "Det är en temporär inaktivering"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:284
+msgid "I couldn't get the plugin to work"
+msgstr "Jag kunde inte få tillägget att fungera"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:281
+msgid "Please share which plugin"
+msgstr "Dela vilket tillägg"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:280
+msgid "I'm switching to a different plugin"
+msgstr "Jag byter till ett annat tillägg"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:277
+msgid "I no longer need the plugin"
+msgstr "Jag behöver inte tillägget längre"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:141
+msgid "Please select an option"
+msgstr "Välj ett alternativ"
+
+#: languages/vue.php:2193
+msgid "Get Started %s"
+msgstr "Kom igång %s"
+
+#: languages/vue.php:5938
+msgid "You're now using ExactMetrics Pro with all the features."
+msgstr "Du använder nu ExactMetrics Pro med alla funktioner."
+
+#: languages/vue.php:3464
+msgid "Overview Report"
+msgstr "Översiktsrapport"
+
+#: languages/vue.php:5908
+msgid "You need to %1$sconnect ExactMetrics%2$s first"
+msgstr "Du måste %1$sansluta ExactMetrics%2$s först"
+
+#: languages/vue.php:2904
+msgid "Loading Settings"
+msgstr "Laddar in inställningar"
+
+#: languages/vue.php:2901
+msgid "Loading settings"
+msgstr "Laddar in inställningar"
+
+#: languages/vue.php:2895
+msgid "Loading new report data"
+msgstr "Laddar in nya rapportdata"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:291
+msgid "Please share the reason"
+msgstr "Dela orsaken"
+
+#. Translators: Placeholder for the plugin name.
+#: assets/lib/pandora/class-am-deactivation-survey.php:303
+msgid "If you have a moment, please share why you are deactivating %s:"
+msgstr "Om du har tid, dela varför du inaktiverar %s:"
+
+#: languages/vue.php:3646
+msgid "Please wait..."
+msgstr "Vänta …"
+
+#: includes/admin/tracking.php:245
+msgid "Once Weekly"
+msgstr "En gång varje vecka"
+
+#: languages/vue.php:5378
+msgid "Usage Tracking"
+msgstr "Användarspårning"
+
+#: languages/vue.php:2351
+msgid "Hides plugin announcements and update details. This includes critical notices we use to inform about deprecations and important required configuration changes."
+msgstr "Dölj meddelanden och uppdateringsinformation för tillägget. Detta inkluderar kritiska meddelanden vi använder för att informera om utgångna versioner och viktiga obligatoriska konfigurationsändringar."
+
+#: languages/vue.php:2341
+msgid "Hide Announcements"
+msgstr "Dölj meddelanden"
+
+#. Author of the plugin
+#: gadwp.php includes/admin/admin.php:43 includes/admin/admin.php:46
+#: includes/admin/admin.php:58 includes/admin/eea-compliance.php:208
+#: includes/admin/wp-site-health.php:35 includes/emails/class-emails.php:255
+#: lite/includes/admin/dashboard-widget.php:99
+#: lite/includes/admin/wp-site-health.php:231
+#: lite/includes/admin/wp-site-health.php:283
+#: lite/includes/admin/wp-site-health.php:310
+#: lite/includes/admin/wp-site-health.php:348
+#: lite/includes/admin/wp-site-health.php:375
+#: lite/includes/admin/wp-site-health.php:405
+#: lite/includes/admin/wp-site-health.php:449
+msgid "ExactMetrics"
+msgstr "ExactMetrics"
+
+#. Plugin URI of the plugin
+#: gadwp.php
+msgid "https://exactmetrics.com"
+msgstr "https://exactmetrics.com"
+
+#: languages/vue.php:3406
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: languages/vue.php:5806
+msgid "WPForms"
+msgstr "WPForms"
+
+#: languages/vue.php:2190
+msgid "Get Started"
+msgstr "Kom igång"
+
+#: languages/vue.php:3880
+msgid "Recommended Plugin:"
+msgstr "Rekommenderat tillägg:"
+
+#. Plugin Name of the plugin
+#: gadwp.php
+msgid "Google Analytics Dashboard for WP (GADWP)"
+msgstr "Google Analytics Dashboard för WP (GADWP)"
+
+#: languages/vue.php:2629
+msgid "Integrations"
+msgstr "Integrationer"
+
+#: languages/vue.php:1665
+msgid "Ecommerce"
+msgstr "E-handel"
+
+#: languages/vue.php:1370
+msgid "Custom Dimensions"
+msgstr "Anpassade dimensioner"
+
+#: languages/gutenberg.php:354 assets/gutenberg/js/editor.js:3929
+msgid "Time On Page"
+msgstr "Tid på sidan"
+
+#: languages/vue.php:5159
+msgid "Traffic"
+msgstr "Trafik"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:290
+msgid "Other"
+msgstr "Annat"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:800
+msgid "technology"
+msgstr "teknologi"
+
+#: includes/admin/admin.php:46 includes/admin/admin.php:58
+#: includes/admin/admin.php:367 languages/vue.php:4326
+msgid "Settings"
+msgstr "Inställningar"
+
+#: languages/vue.php:5605
+msgid "Views"
+msgstr "Visningar"
+
+#: includes/admin/site-notes/Controller.php:429 languages/vue.php:1412
+msgid "Date"
+msgstr "Datum"
+
+#: languages/vue.php:3851
+msgid "Real-Time"
+msgstr "Realtid"
+
+#: languages/vue.php:4482
+msgid "Social Networks"
+msgstr "Sociala nätverk"
+
+#: languages/gutenberg.php:363 languages/vue.php:3488
+#: lite/includes/admin/metaboxes.php:80 lite/includes/admin/metaboxes.php:120
+#: lite/includes/emails/templates/body-summaries.php:189
+#: assets/gutenberg/js/editor.js:3932
+msgid "Page Views"
+msgstr "Sidvisningar"
+
+#: languages/vue.php:3491
+#: lite/includes/emails/templates/body-summaries-test.php:229
+#: lite/includes/emails/templates/body-summaries.php:306
+msgid "Pages"
+msgstr "Sidor"
+
+#: includes/gutenberg/site-insights/templates/graph/class-graph-sessions.php:36
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-age.php:60
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-gender.php:60
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-sessions.php:27
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-top10countries.php:56
+#: languages/vue.php:4292
+#: lite/includes/emails/templates/body-summaries-test.php:316
+#: lite/includes/emails/templates/body-summaries.php:129
+msgid "Sessions"
+msgstr "Sessioner"
+
+#. Description of the plugin
+#: gadwp.php
+msgid "Displays Google Analytics Reports and Real-Time Statistics in your Dashboard. Automatically inserts the tracking code in every page of your website."
+msgstr "Visar Google Analytics-rapporter och statistik i realtid i din adminpanel. Infogar automatiskt spårningskoden i varje sida på din webbplats."
+
+#: includes/admin/admin.php:32
+msgid "NEW"
+msgstr "NYA"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-pageviews.php:36
+#: languages/gutenberg.php:351 languages/vue.php:778
+#: assets/gutenberg/js/editor.js:3928
+msgid "Bounce Rate"
+msgstr "Avvisningsfrekvens"
+
+#: languages/vue.php:4963
+msgid "Title"
+msgstr "Rubrik"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:262
+msgid "three"
+msgstr "tre"
+
+#: languages/vue.php:3494
+msgid "Pages / Session"
+msgstr "Sidor/session"
+
+#: languages/vue.php:4033
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: languages/vue.php:3571
+msgid "Permissions"
+msgstr "Behörigheter"
+
+#: languages/vue.php:5003
+msgid "Today"
+msgstr "Idag"
+
+#: languages/vue.php:635
+msgid "Automatic Updates"
+msgstr "Automatiska uppdateringar"
+
+#: languages/gutenberg.php:348 languages/vue.php:5838
+#: lite/includes/admin/metaboxes.php:50 assets/gutenberg/js/editor.js:3927
+msgid "Yesterday"
+msgstr "Igår"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:980
+msgid "video"
+msgstr "video"
+
+#: languages/vue.php:434
+msgid "Advanced Tracking"
+msgstr "Avancerad spårning"
+
+#: languages/vue.php:1917
+msgid "Events Tracking"
+msgstr "Händelsespårning"
+
+#: languages/vue.php:539
+msgid "Analytics"
+msgstr "Analytics"
+
+#: languages/vue.php:1767
+msgid "Enable Enhanced Link Attribution"
+msgstr "Aktivera förbättrad länkattribut"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-topinterests.php:58
+#: languages/vue.php:917
+msgid "Categories"
+msgstr "Kategorier"
